@@ -1,6 +1,6 @@
 {
-  "build": "m81345-companion-cap-confirm-a9af148380fb90c111f9",
-  "bundleSha256": "a9af148380fb90c111f92b8484ccab892297b239c03265b907b95c6734b5e5a5",
+  "build": "m81345-inventory-click-fix-9e251171f0314e86641a",
+  "bundleSha256": "9e251171f0314e86641aed3f9f616ae54540f386b0beb346ca8ea8125176aee0",
   "catalogs": {
     "m3_asset_catalog.json": "88fe20b8d03bd034cf26fb5cb72beedbb5cda049d6e2614c5baecc15368e42b3",
     "m4_asset_catalog.json": "63b29f1496e407b3998a184b9bd862ca5f41543e233ff71df1b15443b34c318f",
@@ -198,7 +198,7 @@
     "m81_settings.js": "dde2a59bceab719062f2d5795976a2f34d7de3ae7cd78624d753f75bb22aa6bc",
     "m81_shop_confirmation.css": "57e657a809a9db335881a7a3a8d401853b0b693876bd52ad7c101f2f8ca79de7",
     "m81_shop_confirmation.js": "4bf266809e7f5a5817b65150b0778affac4ee61304dc0f00f87ffb8c521167ff",
-    "m82_account_shell.css": "c6f18e7f7025d1a3fa88cec3eed4ea6b03061ebca15fa6fb795731ecb4a88422",
+    "m82_account_shell.css": "2166202e6c219bd55c9d9dcb8a8b515bdda850543b2095824e5b8cebbb578750",
     "m82_account_shell.js": "d9d38ee9c9a29374019b90e2005a4fcadda5e3bfadde0ccdff8253e0e2625483",
     "m82_common_ask.css": "9778d857c5019283e5874c0b3dec12e0933b0e70529771823d4cdb3771429ae9",
     "m82_common_ask.js": "801d373d03c14b1d6fc95c5ff7989d28db03021068848f9b85d0587046e8b2cb",

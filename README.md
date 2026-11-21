@@ -58,6 +58,8 @@ Nếu trình duyệt không tự mở, sao chép địa chỉ **Game** trong c�
 
 Mỗi tank có kỹ năng khác nhau. Xem biểu tượng, mô tả và thời gian hồi trong game. Có thể chỉnh phím và cách dùng kỹ năng trong phần cài đặt; tài khoản mẫu có thể đã lưu lựa chọn riêng. Nếu đang nhập chat hoặc ô chữ, đưa thao tác trở lại vùng trận trước khi điều khiển tank.
 
+Khi túi đầy, vào **Túi đồ → Vật phẩm hoặc Nguyên liệu**, chọn món không cần rồi bấm **Bán**. Chọn số lượng hoặc **Chọn cả chồng**, bấm **Xem trước tại máy chủ**, kiểm tra rồi **Xác nhận bán**. Bấm **Hủy** để giữ nguyên đồ. Muốn giải phóng một ô phải bán hết chồng đồ trong ô đó; bán bớt số lượng chưa làm trống ô. Mỗi đơn vị bán được 1 Xu vàng. Đồ khóa, đang dùng hoặc có thời hạn chưa hỗ trợ bán.
+
 ## 5. Dùng web buff
 
 Web buff là trang quản lý local: tạo tài khoản và gửi đồ/tiền qua hòm thư. Trang này có thể mở cùng lúc với game.
