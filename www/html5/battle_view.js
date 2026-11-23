@@ -36,6 +36,7 @@ import {isPveMap} from './m81314_protocol.js';
 import {isWorldBossScene,WORLD_BOSS_MAP} from './m81330_protocol.js';
 import {drawWorldBossHud} from './m81330_worldboss_hud.js';
 import {nativeSequenceAdditive} from './m81332_visual_fixes.js';
+import {PveDialogLayer} from './m81346_pve_dialog.js';
 
 const $ = id => document.getElementById(id);
 const clamp = (value, low, high) => Math.max(low, Math.min(high, value));
@@ -109,6 +110,7 @@ export class BattleView {
     this.nativeBodies = new Map(); this.skillNames = null;
     this.companionClocks=new Map();
     this.pveBossHud=new PveBossHud();
+    this.pveDialog=new PveDialogLayer(document.getElementById('battle-stage'));
     this.nativeStatuses = new Map(); this.nativeSpeedTrails = new Map(); this.nativeCannons = new Map();
     this.spectator = new SpectatorCamera();
     this.teamHud = new BattleTeamHud($('battle-team-roster'), accountId => {
@@ -241,7 +243,7 @@ export class BattleView {
       this.spectator.reset(); this.teamHud.clear();
       this.positions.clear(); this.buffFirstSeen.clear(); this.bodyTimelines.clear();
       this.nativeBodies.clear(); this.companionClocks.clear(); this.skillNames?.reset();
-      this.pveBossHud.reset();
+      this.pveBossHud.reset(); this.pveDialog?.reset();
       this.nativeStatuses.clear(); this.nativeSpeedTrails.clear(); this.nativeCannons.clear();
       this.lastFrameAt = null;
       this.effects.reset(); this.sceneItems.reset();
@@ -314,7 +316,7 @@ export class BattleView {
       this.combatSeen = state; this.effects.reset(); this.sceneItems.reset();
       this.positions.clear(); this.buffFirstSeen.clear(); this.bodyTimelines.clear();
       this.nativeBodies.clear(); this.companionClocks.clear(); this.skillNames?.reset();
-      this.pveBossHud.reset();
+      this.pveBossHud.reset(); this.pveDialog.reset();
       this.nativeStatuses.clear(); this.nativeSpeedTrails.clear(); this.nativeCannons.clear();
       this.error = null; this.resultSeen = null; this.animationStart = now;
       this.postmatch.reset(); this.resultViewport = null;
@@ -329,6 +331,11 @@ export class BattleView {
     // refreshes the data without replaying the title/medal timer chain.
     if (state.result && this.resultSeen) {
       if (this.resultSeen !== state.result) this.drawResult(state);
+      // The closing PvE speech keeps its own timer over the frozen result.
+      const dialogs = (state.effects || []).filter(event => event.kind === 'pveDialog');
+      if (dialogs.length) state.effects = state.effects.filter(event => event.kind !== 'pveDialog');
+      this.pveDialog.consume(dialogs, state);
+      this.pveDialog.tick(now, this, true);
       const viewport = `${this.width}:${this.height}`;
       if (this.resultViewport === viewport) return;
       this.resultViewport = viewport;
@@ -362,6 +369,8 @@ export class BattleView {
       this.input.tick(now);
       const events = takeCombatEffects(state);
       this.pveBossHud.consume(events, state, this.prepared.catalog);
+      this.pveDialog.consume(events, state);
+      this.pveDialog.tick(now, this, Boolean(state.result));
       if (this.roboActive) this.roboWorld.consume(events);
       this.skillNames?.consume(events, state);
       this.effects.consume(events, state, this.geometry);

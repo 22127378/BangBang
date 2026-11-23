@@ -12,7 +12,7 @@ import {hydrateM81318CrystalArt,registerM81318CrystalArt} from './m81318_crystal
 import {loadM81319Tanks,mergeM81319Menus} from './m81319_tanks.js';
 import {loadM81328Icons,mergeM81328Menus} from './m81328_icons.js';
 import {loadWorldBossCatalog,mergeWorldBossMenus} from './m81330_assets.js';
-import {loadM81331Locale,mergeM81331MenuLocale} from './m81331_locale.js';
+import {loadM81331Locale,mergeM81331MenuLocale,translateM81331Remaining} from './m81331_locale.js';
 import {loadM81333Skins,mergeM81333MenuSkins} from './m81333_skins.js';
 import {loadM81333LacSkin,mergeM81333LacMenus} from './m81333_lac_skin.js';
 import {loadM81334Skins,mergeM81334Menus} from './m81334_skins.js';
@@ -177,6 +177,12 @@ export class M8UIAssets {
     await mergeM81338LevelLooksMenus(this,levelLooks.catalog,{
       'm8_garage_catalog.json':this.garageCatalogSha256,'m81319_tanks_catalog.json':this.m81319TanksSha256,
       'm81335_skins_catalog.json':skins35.sha256});
+    {
+      const locale=await loadM81331Locale();
+      for(const part of [this.ui,this.garage,this.crystals,this.account,this.hud,this.m3,this.panels,this.pve,
+        this.flowPresentation,this.loadingPresentation,this.postmatchPresentation,this.pk,this.modes])
+        translateM81331Remaining(part,locale);
+    }
     // Flash's preload module already has its embedded artwork when the screen
     // opens. Decode its small fixed image set at UI startup as well, avoiding a
     // first loading frame containing tanks floating over an empty background.

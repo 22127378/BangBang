@@ -85,6 +85,35 @@ export function mergeM81331MenuLocale(ui,locale){
   return ui;
 }
 
+// M33: after every hash-checked merge has finished, replace the remaining
+// exact Chinese display strings in static catalogs. Only known display
+// fields change; IDs, asset paths, raw/native/source/audit fields and
+// localizedText keys stay byte-identical to the source catalogs.
+const remainingFields=new Set([...displayFields,'szOpposeIllustrate','szKillerTips','szPveDesc','szWinDesc']);
+const skippedKeys=key=>key.startsWith('native')||key==='raw'||key==='source'||key==='audit'||key==='sources';
+export function translateM81331Remaining(root,locale){
+  const translations=locale?.translations||{},seen=new WeakSet();
+  const visit=node=>{
+    if(!node||typeof node!=='object'||seen.has(node))return;
+    seen.add(node);
+    const frozen=Object.isFrozen(node);
+    for(const key of Object.keys(node)){
+      if(skippedKeys(key))continue;
+      const value=node[key];
+      if(typeof value==='string'){
+        if(!frozen&&remainingFields.has(key)&&Object.hasOwn(translations,value)){
+          try{node[key]=translations[value];}catch{}
+        }
+      }else if(key==='localizedText'&&value&&typeof value==='object'&&!Object.isFrozen(value)){
+        for(const [text,shown] of Object.entries(value))
+          if(typeof shown==='string'&&Object.hasOwn(translations,text))value[text]=translations[text];
+      }else visit(value);
+    }
+  };
+  visit(root);
+  return root;
+}
+
 /** NPC actor names can arrive from the native wire. Translate only when they
  * exactly equal that NPC template's original name; human/user text is untouched. */
 export function vietnameseNpcName(actor,template){

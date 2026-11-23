@@ -56,6 +56,7 @@ def stop_points(arena,points):
 
 def scripts(arena,script,now):
     packets=[];pve=arena.pk['pve']
+    from pve_events import run as presentation;packets+=presentation(arena,script,now)
     for kind,arg,_,_ in script:
         if kind==4:packets+=remove_objects(arena,(arg,))
         elif kind==5:stop_points(arena,(arg,))

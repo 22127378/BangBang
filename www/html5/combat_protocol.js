@@ -80,7 +80,7 @@ function readKillInfo(r) {
 }
 
 const HANDLED = new Set([1553, 1556, 1558, 1559, 1560, 1561, 1562, 1565, 1566,
-  1572, 1578, 1579, 1581, 1583, 1585, 1589, 1590, 1595, 1603, 1605, 1708, 1710,1731,1732,1733,1734,1735,1736]);
+  1572, 1578, 1579, 1581, 1583, 1585, 1589, 1590, 1595, 1603, 1605, 1708, 1710,1731,1732,1733,1734,1735,1736,1797]);
 
 /** Return null for schemas owned by M2/M3 or not yet verified from source.
  * Message order and trailing bytes are preserved for the session reducer/guard.
@@ -187,6 +187,14 @@ export function decodeCombatPacket(msgId, payload) {
         bpvpActOpen: r.u8(), itemDropRate: r.u32(), killerId: r.u32(), assisterId: r.u32(),
         kdaId: r.u32(), destroyerId: r.u32(), victoryMvpId: r.u32(), defeatMvpId: r.u32(),
         sceneUuid: r.string() };
+      break;
+    case 1797:
+      // Offline S1797: restored native PvE map-script presentation
+      // (DialogTemplate speech, wave/stage banners, cutscene captions, hints).
+      result = {type:'pveDialog', sceneId:r.u32(), dialogId:r.u32(), scriptKind:r.u8(),
+        dialogType:r.u8(), duration:r.i16(), delay:r.u16(), x:r.i16(), y:r.i16(),
+        text:r.string(), portrait:r.string(), background:r.string()};
+      if(![6,11].includes(result.scriptKind))throw new RangeError('Invalid PvE script kind');
       break;
     case 1733:
       result = {type:'roundScore',camp1:r.u32(),camp2:r.u32()};

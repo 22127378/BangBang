@@ -1637,7 +1637,7 @@
   },
   "maps": {
     "1": {
-      "name": "玛雅预言[热血]",
+      "name": "Maya Tiên Tri [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1_gui_m_t.jpg",
@@ -1655,7 +1655,7 @@
       }
     },
     "4": {
-      "name": "冰天雪地[热血]",
+      "name": "Băng Thiên Tuyết Địa [Nhiệt Huyết]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage4_gui_m_t.jpg",
@@ -1673,7 +1673,7 @@
       }
     },
     "7": {
-      "name": "越野拉力[据点]",
+      "name": "Việt Dã [Cứ điểm]",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage7_gui_m_t.jpg",
@@ -1691,7 +1691,7 @@
       }
     },
     "9": {
-      "name": "埃及古墓[据点]",
+      "name": "Cổ mộ Ai Cập [Cứ điểm]",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage9_gui_m_t.jpg",
@@ -1709,7 +1709,7 @@
       }
     },
     "10": {
-      "name": "货运中心[据点]",
+      "name": "Trung Tâm Chuyển Hàng [Cứ điểm]",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage10_gui_m_t.jpg",
@@ -1727,7 +1727,7 @@
       }
     },
     "12": {
-      "name": "晶矿争夺[基地]",
+      "name": "Tranh đoạt mỏ khoáng [căn cứ]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage12_gui_m_t.jpg",
@@ -1745,7 +1745,7 @@
       }
     },
     "14": {
-      "name": "玛雅遗址[基地]",
+      "name": "Di chỉ Maya [căn cứ]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage14_gui_m_t.jpg",
@@ -1763,7 +1763,7 @@
       }
     },
     "17": {
-      "name": "热血快餐[热血]",
+      "name": "Fastfood [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage17_gui_m_t.jpg",
@@ -1781,7 +1781,7 @@
       }
     },
     "18": {
-      "name": "荒野大地[热血]",
+      "name": "Hoang Dã Đại Địa [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage18_gui_m_t.jpg",
@@ -1799,7 +1799,7 @@
       }
     },
     "19": {
-      "name": "星际争霸[热血]",
+      "name": "Stars war [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage19_gui_m_t.jpg",
@@ -1817,7 +1817,7 @@
       }
     },
     "20": {
-      "name": "奶牛快跑[热血]",
+      "name": "Bò sữa chạy nhanh [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage20_gui_m_t.jpg",
@@ -1835,7 +1835,7 @@
       }
     },
     "21": {
-      "name": "电闪雷鸣[热血]",
+      "name": "Sấm Vang Dội[Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage21_gui_m_t.jpg",
@@ -1853,7 +1853,7 @@
       }
     },
     "30": {
-      "name": "崩塌矿井[死亡]",
+      "name": "Mỏ Khoáng Sụp Đổ [Death]",
       "modeType": 4,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30_gui_m_t.jpg",
@@ -1871,7 +1871,7 @@
       }
     },
     "34": {
-      "name": "极地哨站[热血]",
+      "name": "Trạm Cực Địa [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31_gui_m_t.jpg",
@@ -1889,7 +1889,7 @@
       }
     },
     "35": {
-      "name": "星际要塞[热血]",
+      "name": "Pháo Đài Star [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage32_gui_m_t.jpg",
@@ -1907,7 +1907,7 @@
       }
     },
     "36": {
-      "name": "辐射矿区[热血]",
+      "name": "Khu Mỏ Bức Xạ [Tính Điểm]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage33_gui_m_t.jpg",
@@ -1925,7 +1925,7 @@
       }
     },
     "37": {
-      "name": "死亡军区[据点]",
+      "name": "Chiến Khu Tử Vong (Cứ Điểm)",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage37_gui_m_t.jpg",
@@ -1943,7 +1943,7 @@
       }
     },
     "40": {
-      "name": "末日之城[死亡]",
+      "name": "Thành Tận Thế [Tử Vong]",
       "modeType": 4,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage40_gui_m_t.jpg",
@@ -1961,7 +1961,7 @@
       }
     },
     "50": {
-      "name": "阳光小镇[基地]",
+      "name": "Trấn Nhỏ Mặt Trời[Căn Cứ]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage50_gui_m_t.jpg",
@@ -1979,7 +1979,7 @@
       }
     },
     "70": {
-      "name": "玩命速递[护送]",
+      "name": "Cuộc Chiến Tử Thần[Hộ Tống]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage70_gui_m_t.jpg",
@@ -1997,7 +1997,7 @@
       }
     },
     "80": {
-      "name": "欢乐农场",
+      "name": "Nông trại vui vẻ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage29_gui_m_t.jpg",
@@ -2015,7 +2015,7 @@
       }
     },
     "81": {
-      "name": "欢乐圣诞",
+      "name": "Giáng Sinh Vui Vẻ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage29_gui_m_t.jpg",
@@ -2033,7 +2033,7 @@
       }
     },
     "82": {
-      "name": "欢乐教学",
+      "name": "Luyện Vui Vẻ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage10_gui_m_t.jpg",
@@ -2051,7 +2051,7 @@
       }
     },
     "100": {
-      "name": "新兵训练营[训练]",
+      "name": "Huấn luyện tân binh [huấn luyện]",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage100_gui_m_t.jpg",
@@ -2059,7 +2059,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "101": {
-      "name": "热血教学",
+      "name": "Luyện Nhiệt Huyết",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage101_gui_m_t.jpg",
@@ -2077,7 +2077,7 @@
       }
     },
     "102": {
-      "name": "基地教学",
+      "name": "Luyện Căn Cứ",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage102_gui_m_t.jpg",
@@ -2085,7 +2085,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "103": {
-      "name": "据点教学",
+      "name": "Luyện Cứ Điểm",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage103_gui_m_t.jpg",
@@ -2093,7 +2093,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "104": {
-      "name": "星辰雪山[热血教学]",
+      "name": "Núi Tuyết [Luyện Nhiệt Huyết]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage4_gui_m_t.jpg",
@@ -2111,7 +2111,7 @@
       }
     },
     "130": {
-      "name": "火球赛",
+      "name": "Đấu Fireball",
       "modeType": 7,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage130_gui_m_t.jpg",
@@ -2129,7 +2129,7 @@
       }
     },
     "150": {
-      "name": "热血练习[演习基地]",
+      "name": "Luyện Nhiệt Huyết [căn cứ diễn tập]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage2_gui_m_t.jpg",
@@ -2137,7 +2137,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "151": {
-      "name": "热血练习[考古遗址]",
+      "name": "Luyện Nhiệt Huyết [Di Chỉ Khảo Cổ]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage3_gui_m_t.jpg",
@@ -2145,7 +2145,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "152": {
-      "name": "热血练习[冰天雪地]",
+      "name": "Luyện Tập Nhiệt Huyết [Băng Thiên Tuyết Địa]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage4_gui_m_t.jpg",
@@ -2163,7 +2163,7 @@
       }
     },
     "153": {
-      "name": "热血练习[玛雅预言]",
+      "name": "Luyện Nhiệt Huyết [Di ngôn Maya]",
       "modeType": 3,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage153_gui_m_t.jpg",
@@ -2171,7 +2171,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "166": {
-      "name": "基地练习[晶矿争夺]",
+      "name": "Luyện Nhiệt Huyết [Tranh đoạt mỏ khoáng]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage12_gui_m_t.jpg",
@@ -2189,7 +2189,7 @@
       }
     },
     "167": {
-      "name": "基地练习[玛雅遗址]",
+      "name": "Luyện Nhiệt Huyết [Di Chỉ Maya]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage14_gui_m_t.jpg",
@@ -2207,7 +2207,7 @@
       }
     },
     "168": {
-      "name": "基地练习[极地DOTA]",
+      "name": "Luyện Căn Cứ [DOTA Băng Giá]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage168_gui_m_t.jpg",
@@ -2215,7 +2215,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "169": {
-      "name": "极地DOTA[基地]",
+      "name": "Địa cực DOTA [căn cứ]",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage169_gui_m_t.jpg",
@@ -2233,7 +2233,7 @@
       }
     },
     "170": {
-      "name": "流沙之地[据点]",
+      "name": "Bão Cát [Cứ Điểm)",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage170_gui_m_t.jpg",
@@ -2251,7 +2251,7 @@
       }
     },
     "175": {
-      "name": "据点练习[越野拉力]",
+      "name": "Luyện Cứ Điểm[Di Chỉ Khảo Cổ]",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage7_gui_m_t.jpg",
@@ -2269,7 +2269,7 @@
       }
     },
     "176": {
-      "name": "坦克试用场",
+      "name": "Bãi Thử Dùng Tank",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage7_gui_m_t.jpg",
@@ -2287,7 +2287,7 @@
       }
     },
     "177": {
-      "name": "流沙之地[据点]",
+      "name": "Bão Cát [Cứ Điểm)",
       "modeType": 2,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage171_gui_m_t.jpg",
@@ -2305,7 +2305,7 @@
       }
     },
     "190": {
-      "name": "副本练习",
+      "name": "Luyện Phụ Bản",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage116_gui_m_t.jpg",
@@ -2313,7 +2313,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "201": {
-      "name": "邪恶佣兵",
+      "name": "Lính Đánh Thuê Gian ÁC",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage116_gui_m_t.jpg",
@@ -2321,7 +2321,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "203": {
-      "name": "掘金矿场",
+      "name": "Mỏ Vàng",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage203_gui_m_t.jpg",
@@ -2329,7 +2329,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "204": {
-      "name": "雷霆出击",
+      "name": "Tấn Công Sấm Sét ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage204_gui_m_t.jpg",
@@ -2337,7 +2337,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "205": {
-      "name": "断桥激战",
+      "name": "Trận Chiến Quyết Liệt",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage205_gui_m_t.jpg",
@@ -2345,7 +2345,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "206": {
-      "name": "英雄救美",
+      "name": "Anh Hùng Cứu Mỹ Nhân",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage206_gui_m_t.jpg",
@@ -2353,7 +2353,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "211": {
-      "name": "逃离集中营",
+      "name": "Rời Trại Tập Trung",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage211_gui_m_t.jpg",
@@ -2361,7 +2361,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "212": {
-      "name": "跳崖求生",
+      "name": "Thoát Trong Gang Tấc",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage212_gui_m_t.jpg",
@@ -2369,7 +2369,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "213": {
-      "name": "虎口脱险",
+      "name": "Thoát khỏi hang cọp",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage213_gui_m_t.jpg",
@@ -2377,7 +2377,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "301": {
-      "name": "海岸强袭",
+      "name": "Cuộc Chiến Bờ Biển",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage301_gui_m_t.jpg",
@@ -2385,7 +2385,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "302": {
-      "name": "摧毁导弹",
+      "name": "Phá Hủy Đạn Đạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage302_gui_m_t.jpg",
@@ -2393,7 +2393,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "303": {
-      "name": "要塞巨舰",
+      "name": "Chiến Hạm Trọng Yếu",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage303_gui_m_t.jpg",
@@ -2401,7 +2401,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "304": {
-      "name": "野战丛林",
+      "name": "Khu Rừng Dã Chiến",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage304_gui_m_t.jpg",
@@ -2409,7 +2409,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "305": {
-      "name": "深入虎穴",
+      "name": "Vào Hang Cọp",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage305_gui_m_t.jpg",
@@ -2417,7 +2417,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "306": {
-      "name": "狂暴巨坦",
+      "name": "Tank Cuồng Bạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage306_gui_m_t.jpg",
@@ -2425,7 +2425,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "401": {
-      "name": "恐怖潜艇",
+      "name": "Tàu Ngầm Đáng Sợ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage401_gui_m_t.jpg",
@@ -2433,7 +2433,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "402": {
-      "name": "勇者之路",
+      "name": "Con Đường Anh Hùng",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage402_gui_m_t.jpg",
@@ -2441,7 +2441,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "403": {
-      "name": "蜘蛛VS巨坦",
+      "name": "Nhện VS Tank",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage403_gui_m_t.jpg",
@@ -2449,7 +2449,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "404": {
-      "name": "追击强敌",
+      "name": "Triệt Hạ Cường Địch",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage404_gui_m_t.jpg",
@@ -2457,7 +2457,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "405": {
-      "name": "守卫大桥",
+      "name": "Bảo Vệ Cầu",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage405_gui_m_t.jpg",
@@ -2465,7 +2465,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "406": {
-      "name": "疯狂火车",
+      "name": "Xe Lửa Cuồng Bạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage406_gui_m_t.jpg",
@@ -2473,7 +2473,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "501": {
-      "name": "外星入侵",
+      "name": "Bị Xâm Nhập",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage501_gui_m_t.jpg",
@@ -2481,7 +2481,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "502": {
-      "name": "生死营救",
+      "name": "Ứng Cứu Sinh Tử",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage502_gui_m_t.jpg",
@@ -2489,7 +2489,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "503": {
-      "name": "收复空间站",
+      "name": "Đoạt Trạm Không Gian",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage503_gui_m_t.jpg",
@@ -2497,7 +2497,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "504": {
-      "name": "绝地反攻",
+      "name": "Vùng Phản Công",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage504_gui_m_t.jpg",
@@ -2505,7 +2505,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "505": {
-      "name": "大战外星人",
+      "name": "Đại Chiến Ngoài Hành Tinh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage505_gui_m_t.jpg",
@@ -2513,7 +2513,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "506": {
-      "name": "首领之战",
+      "name": "Lần Đầu Dẫn Binh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage506_gui_m_t.jpg",
@@ -2521,7 +2521,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "601": {
-      "name": "营救女王",
+      "name": "Giải Cứu Nữ Vương",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage601_gui_m_t.jpg",
@@ -2529,7 +2529,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "602": {
-      "name": "死亡飞车",
+      "name": "Tốc Độ Tử Thần",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage602_gui_m_t.jpg",
@@ -2537,7 +2537,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "603": {
-      "name": "西斯武士",
+      "name": "Chiến binh Sith",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage603_gui_m_t.jpg",
@@ -2545,7 +2545,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "701": {
-      "name": "机场遇险",
+      "name": "Phi Trường Gặp Nạn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage701_gui_m_t.jpg",
@@ -2553,7 +2553,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "702": {
-      "name": "车站狙击",
+      "name": "Tập Kích Trạm Xe",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage702_gui_m_t.jpg",
@@ -2561,7 +2561,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "703": {
-      "name": "飓风战舰",
+      "name": "Trận Đánh Giông Bão",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage703_gui_m_t.jpg",
@@ -2569,7 +2569,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "2002": {
-      "name": "冰火战场",
+      "name": "Chiến Trường Băng Lửa",
       "modeType": 1,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage2001_gui_m_t.jpg",
@@ -2577,7 +2577,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5211": {
-      "name": "逃离集中营",
+      "name": "Rời Trại Tập Trung",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage211_gui_m_t.jpg",
@@ -2585,7 +2585,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5212": {
-      "name": "跳崖求生",
+      "name": "Thoát Trong Gang Tấc",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage212_gui_m_t.jpg",
@@ -2593,7 +2593,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5213": {
-      "name": "虎口脱险",
+      "name": "Thoát khỏi hang cọp",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage213_gui_m_t.jpg",
@@ -2601,7 +2601,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5301": {
-      "name": "海岸强袭",
+      "name": "Cuộc Chiến Bờ Biển",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage301_gui_m_t.jpg",
@@ -2609,7 +2609,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5302": {
-      "name": "摧毁导弹",
+      "name": "Phá Hủy Đạn Đạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage302_gui_m_t.jpg",
@@ -2617,7 +2617,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5303": {
-      "name": "要塞巨舰",
+      "name": "Chiến Hạm Trọng Yếu",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage303_gui_m_t.jpg",
@@ -2625,7 +2625,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5304": {
-      "name": "野战丛林",
+      "name": "Khu Rừng Dã Chiến",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage304_gui_m_t.jpg",
@@ -2633,7 +2633,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5305": {
-      "name": "深入虎穴",
+      "name": "Vào Hang Cọp",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage305_gui_m_t.jpg",
@@ -2641,7 +2641,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5306": {
-      "name": "狂暴巨坦",
+      "name": "Tank Cuồng Bạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage306_gui_m_t.jpg",
@@ -2649,7 +2649,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5401": {
-      "name": "恐怖潜艇",
+      "name": "Tàu Ngầm Đáng Sợ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage401_gui_m_t.jpg",
@@ -2657,7 +2657,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5402": {
-      "name": "勇者之路",
+      "name": "Con Đường Anh Hùng",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage402_gui_m_t.jpg",
@@ -2665,7 +2665,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5403": {
-      "name": "蜘蛛VS巨坦",
+      "name": "Nhện VS Tank",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage403_gui_m_t.jpg",
@@ -2673,7 +2673,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5404": {
-      "name": "追击强敌",
+      "name": "Triệt Hạ Cường Địch",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage404_gui_m_t.jpg",
@@ -2681,7 +2681,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5405": {
-      "name": "守卫大桥",
+      "name": "Bảo Vệ Cầu",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage405_gui_m_t.jpg",
@@ -2689,7 +2689,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5406": {
-      "name": "疯狂火车",
+      "name": "Xe Lửa Cuồng Bạo",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage406_gui_m_t.jpg",
@@ -2697,7 +2697,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5501": {
-      "name": "外星入侵",
+      "name": "Bị Xâm Nhập",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage501_gui_m_t.jpg",
@@ -2705,7 +2705,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5502": {
-      "name": "生死营救",
+      "name": "Ứng Cứu Sinh Tử",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage502_gui_m_t.jpg",
@@ -2713,7 +2713,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5503": {
-      "name": "收复空间站",
+      "name": "Đoạt Trạm Không Gian",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage503_gui_m_t.jpg",
@@ -2721,7 +2721,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5504": {
-      "name": "绝地反攻",
+      "name": "Vùng Phản Công",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage504_gui_m_t.jpg",
@@ -2729,7 +2729,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5505": {
-      "name": "大战外星人",
+      "name": "Đại Chiến Ngoài Hành Tinh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage505_gui_m_t.jpg",
@@ -2737,7 +2737,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5506": {
-      "name": "首领之战",
+      "name": "Lần Đầu Dẫn Binh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage506_gui_m_t.jpg",
@@ -2745,7 +2745,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5601": {
-      "name": "营救女王",
+      "name": "Giải Cứu Nữ Vương",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage601_gui_m_t.jpg",
@@ -2753,7 +2753,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5602": {
-      "name": "死亡飞车",
+      "name": "Tốc Độ Tử Thần",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage602_gui_m_t.jpg",
@@ -2761,7 +2761,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5603": {
-      "name": "西斯武士",
+      "name": "Chiến binh Sith",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage603_gui_m_t.jpg",
@@ -2769,7 +2769,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5701": {
-      "name": "机场遇险",
+      "name": "Phi Trường Gặp Nạn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage701_gui_m_t.jpg",
@@ -2777,7 +2777,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5702": {
-      "name": "车站狙击",
+      "name": "Tập Kích Trạm Xe",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage702_gui_m_t.jpg",
@@ -2785,7 +2785,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "5703": {
-      "name": "飓风战舰",
+      "name": "Trận Đánh Giông Bão",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage703_gui_m_t.jpg",
@@ -2793,7 +2793,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8000": {
-      "name": "银马迎春",
+      "name": "Ngân Mã Đón Xuân",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2801,7 +2801,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8001": {
-      "name": "金马迎春",
+      "name": "Kim Mã Đón Xuân",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2809,7 +2809,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8002": {
-      "name": "天马迎春",
+      "name": "Thiên Mã Đón Xuân",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2817,7 +2817,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8003": {
-      "name": "机甲战羊(普通）",
+      "name": "Boss Ất Mùi (Thường)",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2825,7 +2825,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8004": {
-      "name": "黄金机甲战羊(困难）",
+      "name": "Boss Ất Mùi Vàng (Khó)",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2833,7 +2833,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "8005": {
-      "name": "神圣机甲战羊(英雄）",
+      "name": "Boss Ất Mùi Thần Thánh (Anh Hùng)",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage1021_gui_m_t.jpg",
@@ -2841,7 +2841,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "13101": {
-      "name": "魂之炼狱",
+      "name": "Luyện Ngục Hồn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage13101_gui_m_t.jpg",
@@ -2849,7 +2849,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "14101": {
-      "name": "魂之炼狱",
+      "name": "Luyện Ngục Hồn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage13101_gui_m_t.jpg",
@@ -2857,7 +2857,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "23101": {
-      "name": "星际深渊",
+      "name": "Vực Sâu Hành Tinh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage23101_gui_m_t.jpg",
@@ -2865,7 +2865,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "24101": {
-      "name": "星际深渊",
+      "name": "Vực Sâu Hành Tinh",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage23101_gui_m_t.jpg",
@@ -2873,7 +2873,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "30101": {
-      "name": "钢铁囚牢",
+      "name": "Nhà Tù Thép",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30101_gui_m_t.jpg",
@@ -2881,7 +2881,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "30102": {
-      "name": "克隆人计划",
+      "name": "Nhân Bản Vô Tính",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30102_gui_m_t.jpg",
@@ -2889,7 +2889,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "30103": {
-      "name": "黑暗伯爵",
+      "name": "Bá Tước Bóng Đêm",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30103_gui_m_t.jpg",
@@ -2897,7 +2897,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31101": {
-      "name": "钢铁囚牢",
+      "name": "Nhà Tù Thép",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30101_gui_m_t.jpg",
@@ -2905,7 +2905,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31102": {
-      "name": "克隆人计划",
+      "name": "Nhân Bản Vô Tính",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30102_gui_m_t.jpg",
@@ -2913,7 +2913,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31103": {
-      "name": "黑暗伯爵",
+      "name": "Bá Tước Bóng Đêm",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage30103_gui_m_t.jpg",
@@ -2921,7 +2921,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31201": {
-      "name": "生化危机",
+      "name": "Resident Evil",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31201_gui_m_t.jpg",
@@ -2929,7 +2929,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31202": {
-      "name": "追寻病毒",
+      "name": "Tìm Kiếm Bệnh Dịch",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31202_gui_m_t.jpg",
@@ -2937,7 +2937,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31203": {
-      "name": "生化佣兵",
+      "name": "Lính Sinh Hóa",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31203_gui_m_t.jpg",
@@ -2945,7 +2945,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31301": {
-      "name": "死亡都市",
+      "name": "Thành Phố Chết",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31301_gui_m_t.jpg",
@@ -2953,7 +2953,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31302": {
-      "name": "红蜂女王",
+      "name": "Redbee",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31302_gui_m_t.jpg",
@@ -2961,7 +2961,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31303": {
-      "name": "死或生",
+      "name": "Sống Hay Chết",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31303_gui_m_t.jpg",
@@ -2969,7 +2969,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31401": {
-      "name": "死亡荒漠",
+      "name": "Sa Mạc Tử Thần",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31401_gui_m_t.jpg",
@@ -2977,7 +2977,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31402": {
-      "name": "荒漠基地",
+      "name": "Căn Cứ Sa Mạc",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31402_gui_m_t.jpg",
@@ -2985,7 +2985,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31403": {
-      "name": "血色黎明",
+      "name": "Bình Minh Đỏ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31403_gui_m_t.jpg",
@@ -2993,7 +2993,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31501": {
-      "name": "重返都市",
+      "name": "Trở Về",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31501_gui_m_t.jpg",
@@ -3001,7 +3001,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31502": {
-      "name": "基地迷影",
+      "name": "Bóng Tối Căn Cứ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31502_gui_m_t.jpg",
@@ -3009,7 +3009,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31503": {
-      "name": "末日之源",
+      "name": "Nguồn Gốc Hủy Diệt",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31503_gui_m_t.jpg",
@@ -3017,7 +3017,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31601": {
-      "name": "惊魂迷宫",
+      "name": "Mê Cung Kinh Hồn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31601_gui_m_t.jpg",
@@ -3025,7 +3025,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "31602": {
-      "name": "复仇女神",
+      "name": "Nữ Thần Báo Thù",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31602_gui_m_t.jpg",
@@ -3033,7 +3033,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32201": {
-      "name": "生化危机",
+      "name": "Resident Evil",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31201_gui_m_t.jpg",
@@ -3041,7 +3041,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32202": {
-      "name": "追寻病毒",
+      "name": "Tìm Kiếm Bệnh Dịch",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31202_gui_m_t.jpg",
@@ -3049,7 +3049,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32203": {
-      "name": "生化佣兵",
+      "name": "Lính Sinh Hóa",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31203_gui_m_t.jpg",
@@ -3057,7 +3057,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32301": {
-      "name": "死亡都市",
+      "name": "Thành Phố Chết",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31301_gui_m_t.jpg",
@@ -3065,7 +3065,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32302": {
-      "name": "红蜂女王",
+      "name": "Redbee",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31302_gui_m_t.jpg",
@@ -3073,7 +3073,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32303": {
-      "name": "死或生",
+      "name": "Sống Hay Chết",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31303_gui_m_t.jpg",
@@ -3081,7 +3081,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32401": {
-      "name": "死亡荒漠",
+      "name": "Sa Mạc Tử Thần",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31401_gui_m_t.jpg",
@@ -3089,7 +3089,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32402": {
-      "name": "荒漠基地",
+      "name": "Căn Cứ Sa Mạc",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31402_gui_m_t.jpg",
@@ -3097,7 +3097,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32403": {
-      "name": "血色黎明",
+      "name": "Bình Minh Đỏ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31403_gui_m_t.jpg",
@@ -3105,7 +3105,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32501": {
-      "name": "重返都市",
+      "name": "Trở Về",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31501_gui_m_t.jpg",
@@ -3113,7 +3113,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32502": {
-      "name": "基地迷影",
+      "name": "Bóng Tối Căn Cứ",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31502_gui_m_t.jpg",
@@ -3121,7 +3121,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32503": {
-      "name": "末日之源",
+      "name": "Nguồn Gốc Hủy Diệt",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31503_gui_m_t.jpg",
@@ -3129,7 +3129,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32601": {
-      "name": "惊魂迷宫",
+      "name": "Mê Cung Kinh Hồn",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31601_gui_m_t.jpg",
@@ -3137,7 +3137,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "32602": {
-      "name": "复仇女神",
+      "name": "Nữ Thần Báo Thù",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage31602_gui_m_t.jpg",
@@ -3145,7 +3145,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "33101": {
-      "name": "众神国度",
+      "name": "Dominions",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage33101_gui_m_t.jpg",
@@ -3153,7 +3153,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "34101": {
-      "name": "众神国度",
+      "name": "Dominions",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage33101_gui_m_t.jpg",
@@ -3161,7 +3161,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "40000": {
-      "name": "火焰之王",
+      "name": "Hỏa Thần",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage33101_gui_m_t.jpg",
@@ -3169,7 +3169,7 @@
       "previewMissingReason": "Mapped and literal resource files are absent"
     },
     "40002": {
-      "name": "月球基地",
+      "name": "Cứ Địa Lunar",
       "modeType": 0,
       "previewKind": "prebattle-map-cover",
       "previewLogicalPath": "zh_CN/map/stage40002_gui_m_t.jpg",

@@ -505,6 +505,10 @@ class BattleArena:
             from world_boss_mode import tick as world_boss_tick
             packets+=world_boss_tick(self,now)
         if self.geometry.id in PVE_MAPS and not self.pk['finished']:
+            # Native contact crush of soft infantry, before NPC AI acts.
+            from pve_crush import tick as crush_tick
+            packets+=crush_tick(self,now)
+        if self.geometry.id in PVE_MAPS and not self.pk['finished']:
             from pve_rules import tick as pve_tick
             packets+=pve_tick(self,now)
         if self.geometry.id in (4,12,14,17,21,30,40,34,35,36,50,70,169) and not self.pk['finished']:

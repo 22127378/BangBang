@@ -204,6 +204,10 @@ def static_packets(arena):
         if actor:
             if actor.alive:packets.append(actor.snapshot(arena.clock()))
             continue
+        if arena.pk and isinstance(arena.pk.get('pve'),dict):
+            # Restored PvE guide arrows follow their native show/hide scripts.
+            from pve_events import visible
+            if not visible(arena,npc['instance']):continue
         body=struct.pack('<IIhhiBiIiH',ident,npc['template'],npc['x'],npc['y'],npc['hp'],
                          npc['camp'],npc['hp'],0,0,0)
         packets.append((1556,struct.pack('<I',arena.scene_id)+body))

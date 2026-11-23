@@ -37,6 +37,7 @@ _FIELDS = {
     'remove_bot': {'slot', 'expected_account_id', 'revision'},
     'add_bot': {'camp', 'level', 'revision'},
     'bot_policy': {'camp', 'bot_ai', 'revision'},
+    'map': {'mode', 'revision'},
     'invite': {'account_id', 'camp', 'revision'},
     'accept': {'invite_id'}, 'decline': {'invite_id'},
     'rank_queue': set(), 'rank_cancel': set(),
@@ -90,7 +91,9 @@ def validate_request(value):
         raise ValueError('Readiness must be boolean')
     if action in ('team', 'add_bot', 'bot_policy') and 'camp' not in value:
         raise ValueError('Camp is required')
-    if action in ('team', 'kick', 'remove_bot', 'add_bot', 'bot_policy') and 'revision' not in value:
+    if action == 'map' and (not isinstance(value.get('mode'), str) or not _IDENTIFIER.fullmatch(value['mode'])):
+        raise ValueError('Map mode is required')
+    if action in ('team', 'kick', 'remove_bot', 'add_bot', 'bot_policy', 'map') and 'revision' not in value:
         raise ValueError('Room revision is required')
     if action in ('kick', 'remove_bot') and (not _integer(value.get('slot'), 0, 9)
                                            or not _integer(value.get('expected_account_id'), 1)):
@@ -527,7 +530,7 @@ class RoomHub:
             self._presence()
             return True
 
-    def _room_action(self, profile, request, *, bot=None):
+    def _room_action(self, profile, request, *, bot=None, config=None):
         room = self._room_for(profile)
         self._waiting(room, casual=request['action'] not in ('leave',))
         action = request['action']
@@ -579,6 +582,15 @@ class RoomHub:
         elif action == 'bot_policy':
             room['config']['bot_ai_camps'][str(request['camp'])] = request['bot_ai']
             self._changed(room, 'bot_policy', profile, reset_ready=True)
+        elif action == 'map':
+            # The gate resolves the saved setup + requested mode into a native
+            # room shape; only the map/rule fields of this waiting room change.
+            _need(isinstance(config, dict) and _integer(config.get('map_id'), 1)
+                  and _integer(config.get('mode'), 1, 255), 'invalid_room', 'Bản đồ chưa hợp lệ.')
+            for key in ('map_id', 'mode', 'name', 'room_type'):
+                room['config'][key] = config[key]
+            room['config']['name'] = str(room['config']['name'])[:80]
+            self._changed(room, 'map', profile, reset_ready=True)
 
     def _invite(self, profile, request):
         room = self._room_for(profile)
@@ -1012,6 +1024,8 @@ class RoomHub:
                     self.join(profile_id, generation, request['code'], request.get('camp'))
                 elif action in ('leave', 'ready', 'team', 'kick', 'remove_bot', 'add_bot', 'bot_policy'):
                     self._room_action(profile_id, request, bot=bot)
+                elif action == 'map':
+                    self._room_action(profile_id, request, config=config)
                 elif action == 'invite':
                     self._invite(profile_id, request)
                 elif action in ('accept', 'decline'):

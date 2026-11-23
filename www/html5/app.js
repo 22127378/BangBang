@@ -1,10 +1,19 @@
-import {M81337Connection as M8Connection} from './m81337_connection.js';
+import {M81352Connection as M8Connection} from './m81352_events_connection.js';
 import {M8BattleAssets} from './m8_assets.js';
 import {M8UI} from './m8_ui.js';
 import {BattleView} from './battle_view.js';
 import {NATIVE_TANK_IDS} from './m6_control_contract.js';
+import {BATTLE_MAPS, RANDOM_MODE} from './m810_modes.js';
 
 const byId = id => document.getElementById(id);
+// The quick bot form lists every verified PvP map, like the native create-room dialog.
+{
+  const select = byId('bot-mode');
+  if (select) select.replaceChildren(...[...BATTLE_MAPS, RANDOM_MODE].map(row => {
+    const option = document.createElement('option'); option.value = row.mode;
+    option.textContent = `${row.group} · ${row.name}`; return option;
+  }));
+}
 let catalog = {}, assets = {}, lastState = null;
 let renderingKey = '', hallKey = '', rosterKey = '', sceneKey = '', settingsKey = '';
 let queuedState = null, renderTimer = null;

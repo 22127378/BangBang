@@ -8,7 +8,8 @@ import {decodeWorldBossPacket} from './m81330_protocol.js';
 import {decodeEconomyPacket} from './m81332_economy_protocol.js';
 import {decodeRoomsPacket} from './m81337_rooms_protocol.js';
 import {decodeShopPacket} from './m81345_shop_protocol.js';
+import {decodeEventsPacket} from './m81352_events_protocol.js';
 export function decodePacket(frame) {
-  return decodeShopPacket(frame) || decodeRoomsPacket(frame) || decodeEconomyPacket(frame) || decodeWorldBossPacket(frame) || decodeMailboxPacket(frame) || decodePvePacket(frame) || decodeMetaPacket(frame) || decodeCrystalPacket(frame)
+  return decodeEventsPacket(frame) || decodeShopPacket(frame) || decodeRoomsPacket(frame) || decodeEconomyPacket(frame) || decodeWorldBossPacket(frame) || decodeMailboxPacket(frame) || decodePvePacket(frame) || decodeMetaPacket(frame) || decodeCrystalPacket(frame)
     || decodeAccountPacket(frame) || decodeBattlePacket(frame);
 }

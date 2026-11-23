@@ -1,0 +1,5145 @@
+{
+ "schemaVersion": 1,
+ "purpose": "Native BuffTemplate icons present on disk but absent from m6 buff resources.",
+ "icons": {
+  "510802": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510803": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510804": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510805": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510806": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510807": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510808": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510809": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "511102": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511103": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511104": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511105": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511106": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511107": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511108": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511109": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511205": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "511206": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "511207": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "511208": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "511209": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "619121": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619125": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619131": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619202": {
+   "logical": "zh_CN/icon/buff/buff_shijianningzhi.jpg",
+   "url": "/rez/zh_CN/icon/buff/39d0891048ca0aa4eee2ad46c158df68.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "297594a5777b44b5e0e69aa7dfd64db0f4c35a85474cad4a01bbfe45f1fdfa40",
+   "exists": true,
+   "status": "ready"
+  },
+  "619302": {
+   "logical": "zh_CN/icon/buff/buff_shikongcuoluan.jpg",
+   "url": "/rez/zh_CN/icon/buff/7b6d8891a1baa3d3a6119120159920f3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3f504c0d84a415e1dd2f63f344b019ca9496d1d12de743e586914eadac296df4",
+   "exists": true,
+   "status": "ready"
+  },
+  "619303": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619401": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619402": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "619403": {
+   "logical": "zh_CN/icon/buff/buff_xukongsuipian001.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb7086fdb1482be7a3752857d6941d43.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7fcc2b21b1aa32922979297097e59a9ac063b963076ac5d9716204e6045635f5",
+   "exists": true,
+   "status": "ready"
+  },
+  "40202": {
+   "logical": "zh_CN/icon/buff/buff_xiedu1.jpg",
+   "url": "/rez/zh_CN/icon/buff/2cc3201341d7f87499943b01f634ee7c.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7eff0bd271dce66a638f165713c14661001ca1235340dd095155836715808ab0",
+   "exists": true,
+   "status": "ready"
+  },
+  "40422": {
+   "logical": "zh_CN/icon/buff/buff_haiyao00.jpg",
+   "url": "/rez/zh_CN/icon/buff/08f7e74982ae5166c7dfff99512cdb55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9ef38499f0a6ef6e4839ad52f5d8383b226d1440018f7d765c3d4e41fccc80ac",
+   "exists": true,
+   "status": "ready"
+  },
+  "40503": {
+   "logical": "zh_CN/icon/buff/buff_haiyao00.jpg",
+   "url": "/rez/zh_CN/icon/buff/08f7e74982ae5166c7dfff99512cdb55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9ef38499f0a6ef6e4839ad52f5d8383b226d1440018f7d765c3d4e41fccc80ac",
+   "exists": true,
+   "status": "ready"
+  },
+  "1": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "3": {
+   "logical": "zh_CN/icon/buff/buff_bingdong.jpg",
+   "url": "/rez/zh_CN/icon/buff/4b0bfea6345b401249bd1a37af0784be.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77a1321ff4b90a88699fefa0d334b525ee51d5146547baca5f6bf235af86657d",
+   "exists": true,
+   "status": "ready"
+  },
+  "4": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "7": {
+   "logical": "zh_CN/icon/buff/buff_baohu.jpg",
+   "url": "/rez/zh_CN/icon/buff/bf812a63a75830abf025118932289192.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8978751028fd18b03bb61c7a7eeeff2abe636ba128b640e73bbfdc2b5fef417c",
+   "exists": true,
+   "status": "ready"
+  },
+  "8": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "12": {
+   "logical": "zh_CN/icon/buff/buff_cannotheal.jpg",
+   "url": "/rez/zh_CN/icon/buff/085411c92b4d6d1691b2de6bb3d0b1fc.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca450dbf8c846e9b1e1db85dece2f59e7857b62e49b3b148c2ff4cd25f0c154e",
+   "exists": true,
+   "status": "ready"
+  },
+  "21": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "22": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "23": {
+   "logical": "zh_CN/icon/buff/buff_cannotheal.jpg",
+   "url": "/rez/zh_CN/icon/buff/085411c92b4d6d1691b2de6bb3d0b1fc.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca450dbf8c846e9b1e1db85dece2f59e7857b62e49b3b148c2ff4cd25f0c154e",
+   "exists": true,
+   "status": "ready"
+  },
+  "24": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "25": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "26": {
+   "logical": "zh_CN/icon/buff/buff_cannotheal.jpg",
+   "url": "/rez/zh_CN/icon/buff/085411c92b4d6d1691b2de6bb3d0b1fc.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca450dbf8c846e9b1e1db85dece2f59e7857b62e49b3b148c2ff4cd25f0c154e",
+   "exists": true,
+   "status": "ready"
+  },
+  "120": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "205": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "217": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "218": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "219": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "220": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "222": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "224": {
+   "logical": "zh_CN/icon/buff/blood.jpg",
+   "url": "/rez/zh_CN/icon/buff/20769d06ded4f6f58acfcac6f9816852.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5cd428b627af9f6cb947cd42723da6161698a36d007ed83631f8391f2026ad5b",
+   "exists": true,
+   "status": "ready"
+  },
+  "240": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "241": {
+   "logical": "zh_CN/icon/buff/buff_hongxing.jpg",
+   "url": "/rez/zh_CN/icon/buff/cc6ee42b7fa7b939f70c15425b5ef5e9.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0dbd2eb20f48597b36fa1d534a99e3e577583605596f66af29c9b8ab768070d9",
+   "exists": true,
+   "status": "ready"
+  },
+  "244": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "245": {
+   "logical": "zh_CN/icon/buff/buff_critical.jpg",
+   "url": "/rez/zh_CN/icon/buff/09686b62ea6e290bfee2b0a17a63ec50.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bdbfd8df31380d6a800e31398889b499a8305daed844671687a2a33d19b23353",
+   "exists": true,
+   "status": "ready"
+  },
+  "247": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "248": {
+   "logical": "zh_CN/icon/buff/buff_hudun.jpg",
+   "url": "/rez/zh_CN/icon/buff/e2a14ebf87b470ee82131c89cbeff0bf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "add746a718216720c63b1601b82e35b310b36b171ae1847f8da47ad0f334980c",
+   "exists": true,
+   "status": "ready"
+  },
+  "249": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "250": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "251": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "252": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "253": {
+   "logical": "zh_CN/icon/buff/buff_xiaozhushou.jpg",
+   "url": "/rez/zh_CN/icon/buff/3419c095285e9fed6b72fec2ba38efd8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1684d5a6def128450177d62dbbabc60b1d25908151290f0aff6192abe9620433",
+   "exists": true,
+   "status": "ready"
+  },
+  "254": {
+   "logical": "zh_CN/icon/buff/buff_qiaoba1.jpg",
+   "url": "/rez/zh_CN/icon/buff/3b94832e8cff851f2ebb19a7b5937938.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "256": {
+   "logical": "zh_CN/icon/buff/buff_qiaoba3.jpg",
+   "url": "/rez/zh_CN/icon/buff/4efc816ea1294e8b792bb0af9847053e.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "257": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "258": {
+   "logical": "zh_CN/icon/buff/buff_hudun.jpg",
+   "url": "/rez/zh_CN/icon/buff/e2a14ebf87b470ee82131c89cbeff0bf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "add746a718216720c63b1601b82e35b310b36b171ae1847f8da47ad0f334980c",
+   "exists": true,
+   "status": "ready"
+  },
+  "259": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "261": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "401": {
+   "logical": "zh_CN/icon/buff/buff_wandousheshou2.jpg",
+   "url": "/rez/zh_CN/icon/buff/8be65670a31785490ffa402e5c245a28.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "aeca9714316dedc6de3d815818445c0cdd72c9c162cd710969436d3784df9edc",
+   "exists": true,
+   "status": "ready"
+  },
+  "402": {
+   "logical": "zh_CN/icon/buff/buff_xuhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/584218d47ca6c768d6b8a2f48be199e6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6e8987036bb79f1248c04a1fec562f4b95f001bdfb68ed7212d23cdf3615726a",
+   "exists": true,
+   "status": "ready"
+  },
+  "403": {
+   "logical": "zh_CN/icon/buff/buff_xuhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/584218d47ca6c768d6b8a2f48be199e6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6e8987036bb79f1248c04a1fec562f4b95f001bdfb68ed7212d23cdf3615726a",
+   "exists": true,
+   "status": "ready"
+  },
+  "404": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "405": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "406": {
+   "logical": "zh_CN/icon/buff/buff_xuhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/584218d47ca6c768d6b8a2f48be199e6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6e8987036bb79f1248c04a1fec562f4b95f001bdfb68ed7212d23cdf3615726a",
+   "exists": true,
+   "status": "ready"
+  },
+  "407": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "408": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "410": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "482": {
+   "logical": "zh_CN/icon/buff/buff_qiangli02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5ff8b9dea448b1b78087b0ca06b968c4.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f676b1935a0e21a295569ab3274ba543969a8be28bb2bc7ef80fe2b0c4f37e1c",
+   "exists": true,
+   "status": "ready"
+  },
+  "483": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili01.jpg",
+   "url": "/rez/zh_CN/icon/buff/c5815a5eb13300ab745356e667a26161.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c3fad8cb0b745cd09962dd072639491328331214b9fcd8d2927c5129cfaa8760",
+   "exists": true,
+   "status": "ready"
+  },
+  "484": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili02.jpg",
+   "url": "/rez/zh_CN/icon/buff/a00066ef0fb057e8570871428fd1b907.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "63be48b8cd6c88c3e0c9feb408c966af4a964cc853fb9d97e950b25f16d7eeac",
+   "exists": true,
+   "status": "ready"
+  },
+  "485": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili03.jpg",
+   "url": "/rez/zh_CN/icon/buff/c9d66c2a0e448c24bb00f1092c5b3603.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79803a55b0450df2cd87bb8ebcdf62dad29d1fdd925c3db46572b6379abb90bc",
+   "exists": true,
+   "status": "ready"
+  },
+  "486": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0d53d498887eb814086eb96c6ee18016.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c1f50940c51a26ffb123353d47d532ee71b369d64403d78ef38462e5bf7084cb",
+   "exists": true,
+   "status": "ready"
+  },
+  "487": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili05.jpg",
+   "url": "/rez/zh_CN/icon/buff/777a1bf769d66518f0b55a63638ccb2d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bb4c366dfdd7229a1efcda82ea3077ff1d6155a01b7b9c061a54e72e6c73b761",
+   "exists": true,
+   "status": "ready"
+  },
+  "488": {
+   "logical": "zh_CN/icon/buff/buff_chaonengzhili06.jpg",
+   "url": "/rez/zh_CN/icon/buff/982bb9e08fb15f7370644a7f958cf754.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0799af622b1f42ccdbd65667a0e5e7a7a355b3eb864ae6c903d01e77527eb916",
+   "exists": true,
+   "status": "ready"
+  },
+  "501": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "503": {
+   "logical": "zh_CN/icon/buff/buff_hudun.jpg",
+   "url": "/rez/zh_CN/icon/buff/e2a14ebf87b470ee82131c89cbeff0bf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "add746a718216720c63b1601b82e35b310b36b171ae1847f8da47ad0f334980c",
+   "exists": true,
+   "status": "ready"
+  },
+  "3182": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "3222": {
+   "logical": "zh_CN/icon/buff/buff_xuhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/584218d47ca6c768d6b8a2f48be199e6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6e8987036bb79f1248c04a1fec562f4b95f001bdfb68ed7212d23cdf3615726a",
+   "exists": true,
+   "status": "ready"
+  },
+  "3223": {
+   "logical": "zh_CN/icon/buff/buff_xuhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/584218d47ca6c768d6b8a2f48be199e6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6e8987036bb79f1248c04a1fec562f4b95f001bdfb68ed7212d23cdf3615726a",
+   "exists": true,
+   "status": "ready"
+  },
+  "4011": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "4031": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "4041": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "4121": {
+   "logical": "zh_CN/icon/buff/buff_xianxing.jpg",
+   "url": "/rez/zh_CN/icon/buff/8c6b801434839d5e4169d0e5ac01ddcf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "307046644191ff762796ca527f73cd8ad11753626e244cf722880438666da6c9",
+   "exists": true,
+   "status": "ready"
+  },
+  "4302": {
+   "logical": "zh_CN/icon/buff/buff_xianxing.jpg",
+   "url": "/rez/zh_CN/icon/buff/8c6b801434839d5e4169d0e5ac01ddcf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "307046644191ff762796ca527f73cd8ad11753626e244cf722880438666da6c9",
+   "exists": true,
+   "status": "ready"
+  },
+  "5100": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "5103": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "5104": {
+   "logical": "zh_CN/icon/buff/buff_gangtie1.jpg",
+   "url": "/rez/zh_CN/icon/buff/97543638b0bba5db870de4786ad90661.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a01fe8cd43f9ab576a77fa5dc7a643fa4fcd0ba8af7962fa1c803cb9ef675463",
+   "exists": true,
+   "status": "ready"
+  },
+  "5110": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "5113": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "5114": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "5115": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "17001": {
+   "logical": "zh_CN/icon/buff/buff_critical.jpg",
+   "url": "/rez/zh_CN/icon/buff/09686b62ea6e290bfee2b0a17a63ec50.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bdbfd8df31380d6a800e31398889b499a8305daed844671687a2a33d19b23353",
+   "exists": true,
+   "status": "ready"
+  },
+  "17002": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "18002": {
+   "logical": "zh_CN/icon/buff/buff_baohu.jpg",
+   "url": "/rez/zh_CN/icon/buff/bf812a63a75830abf025118932289192.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8978751028fd18b03bb61c7a7eeeff2abe636ba128b640e73bbfdc2b5fef417c",
+   "exists": true,
+   "status": "ready"
+  },
+  "20001": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "20002": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "20003": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "30103": {
+   "logical": "zh_CN/icon/buff/buff_fensan.jpg",
+   "url": "/rez/zh_CN/icon/buff/691521ee26354ec7b45ef2fd5638d6bb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f04fc59b6182a5619eacb9647d6e134a9cf4dc7c568700fd1cf143d4d9acfe7c",
+   "exists": true,
+   "status": "ready"
+  },
+  "30104": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "30107": {
+   "logical": "zh_CN/icon/buff/buff_fensan.jpg",
+   "url": "/rez/zh_CN/icon/buff/691521ee26354ec7b45ef2fd5638d6bb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f04fc59b6182a5619eacb9647d6e134a9cf4dc7c568700fd1cf143d4d9acfe7c",
+   "exists": true,
+   "status": "ready"
+  },
+  "50201": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "50304": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "50305": {
+   "logical": "zh_CN/icon/buff/buff_fensan.jpg",
+   "url": "/rez/zh_CN/icon/buff/691521ee26354ec7b45ef2fd5638d6bb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f04fc59b6182a5619eacb9647d6e134a9cf4dc7c568700fd1cf143d4d9acfe7c",
+   "exists": true,
+   "status": "ready"
+  },
+  "50306": {
+   "logical": "zh_CN/icon/buff/buff_fensan.jpg",
+   "url": "/rez/zh_CN/icon/buff/691521ee26354ec7b45ef2fd5638d6bb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f04fc59b6182a5619eacb9647d6e134a9cf4dc7c568700fd1cf143d4d9acfe7c",
+   "exists": true,
+   "status": "ready"
+  },
+  "50307": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "50309": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "50310": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50311": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "50313": {
+   "logical": "zh_CN/icon/buff/buff_nainiu.jpg",
+   "url": "/rez/zh_CN/icon/buff/c6516b4cd7f9df9d9f1aa482e8fd8ff2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "662df18521d1e98cac1eaca33653ab1113a48f94fd95fafbc5939ccca3c21196",
+   "exists": true,
+   "status": "ready"
+  },
+  "50314": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50315": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50316": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50317": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "50318": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50319": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50320": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50321": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50322": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50323": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50324": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50325": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50326": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50327": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50328": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "50346": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "50347": {
+   "logical": "zh_CN/icon/buff/buff_bingdong.jpg",
+   "url": "/rez/zh_CN/icon/buff/4b0bfea6345b401249bd1a37af0784be.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77a1321ff4b90a88699fefa0d334b525ee51d5146547baca5f6bf235af86657d",
+   "exists": true,
+   "status": "ready"
+  },
+  "50348": {
+   "logical": "zh_CN/icon/buff/buff_shangwei2.jpg",
+   "url": "/rez/zh_CN/icon/buff/92ba174158aa82700bf06bb035e15d2a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0730736f09d42382b525622129ec5a801e97c1a9754c8be3ed1fa0cfcd972ea0",
+   "exists": true,
+   "status": "ready"
+  },
+  "50350": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "50351": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100201": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100202": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100203": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100204": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100205": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100502": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "100601": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "100602": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "100603": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "100604": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "100605": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "100701": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "100702": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "100703": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "100704": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "100705": {
+   "logical": "zh_CN/icon/buff/buff_lianhuan.jpg",
+   "url": "/rez/zh_CN/icon/buff/e489fa5227a3779d521d2a261b30cf86.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a2e1ba6513432b50bce9be0e66de4cd37485bbdaf5c8e80825c64d04ab84ffb8",
+   "exists": true,
+   "status": "ready"
+  },
+  "101101": {
+   "logical": "zh_CN/icon/buff/buff_critical.jpg",
+   "url": "/rez/zh_CN/icon/buff/09686b62ea6e290bfee2b0a17a63ec50.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bdbfd8df31380d6a800e31398889b499a8305daed844671687a2a33d19b23353",
+   "exists": true,
+   "status": "ready"
+  },
+  "101201": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101301": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101302": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101303": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101304": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101305": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "101503": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "101701": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "101702": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "101703": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "101704": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "101705": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "102203": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "102301": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "102302": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "102303": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "102304": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "102305": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "108001": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "500001": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500002": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500003": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500004": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500005": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500006": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500007": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500008": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500009": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500101": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500102": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500103": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500104": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500105": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500106": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500107": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500108": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "500109": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_sm.jpg",
+   "url": "/rez/zh_CN/icon/buff/fd853e74a707571231f4991b48960f79.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "135a685482c8122c67decc1f6617f09be22ac8a7c9dea89b98a2e4c82534ed45",
+   "exists": true,
+   "status": "ready"
+  },
+  "502001": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502002": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502003": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502004": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502005": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502006": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502007": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502008": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502009": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502101": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502102": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502103": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502104": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502105": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502106": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502107": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502108": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "502109": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wg.jpg",
+   "url": "/rez/zh_CN/icon/buff/0fb21a1401b64c44be0860b37da79774.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "492724d3b38588f34cb556386e635a60151ceffa348187133548724beeb337a7",
+   "exists": true,
+   "status": "ready"
+  },
+  "503001": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503002": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503003": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503004": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503005": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503006": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503007": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503008": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503009": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503101": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503102": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503103": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503104": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503105": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503106": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503107": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503108": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "503109": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_wc.jpg",
+   "url": "/rez/zh_CN/icon/buff/d73806bcdb42bb82449f2049b656f156.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "619c31a0c4a4b195d872b96b114300d101bb0ab8f83fe9e908edfdced16f74d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "507001": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507002": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507003": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507004": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507005": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507101": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507102": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507103": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507104": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "507105": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_yd.jpg",
+   "url": "/rez/zh_CN/icon/buff/fef89418999c9252e35ba9cea91458da.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eedd36ae113920f4c4ed579daabab3920532e0bc947cbd10362fb0304e15f99",
+   "exists": true,
+   "status": "ready"
+  },
+  "508001": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508002": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508003": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508004": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508005": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508101": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508102": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508103": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508104": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "508105": {
+   "logical": "zh_CN/icon/buff/buff_guide_bd_ss.jpg",
+   "url": "/rez/zh_CN/icon/buff/3fc58f1bf77c54c28e401e37e8ce4121.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "706f52f86d14e8a65dfd6a995229007d2e185c97bb0224626b5d998a4a409b15",
+   "exists": true,
+   "status": "ready"
+  },
+  "510110": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_01.jpg",
+   "url": "/rez/zh_CN/icon/buff/95407ad05bf1bec2674cb4c90b2849ee.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "add1040cc8c8e5297e69a4d48e06a8b3a2e5f9012eb5e309e140ea0bc4fee0d4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510201": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510202": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510203": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510204": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510205": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510206": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510207": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510208": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510209": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5f66fca044d6e55ddb31af46aee14fb3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "79a326afb22ea39f75d7611cefc8ba290bff63b933e4e11fca4db7de63f5ee23",
+   "exists": true,
+   "status": "ready"
+  },
+  "510301": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510302": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510303": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510304": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510305": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510306": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510307": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510308": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510309": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/e169f2b7ffb82d0b1d009f863d7297c8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0c9fe39648a98a4830d8bf49d31c0b30598ad4057d925377fec301a868f1c9d3",
+   "exists": true,
+   "status": "ready"
+  },
+  "510401": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510402": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510403": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510404": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510405": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510406": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510407": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510408": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510409": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_04.jpg",
+   "url": "/rez/zh_CN/icon/buff/ef366e38e8883b439c011bf0dd1ab875.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1c90f102c7be89f26562c734608b5cd16cadc8e1f3760fa87020febd4ac88ce8",
+   "exists": true,
+   "status": "ready"
+  },
+  "510501": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510502": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510503": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510504": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510505": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510506": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510507": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510508": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510509": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_05.jpg",
+   "url": "/rez/zh_CN/icon/buff/caaa7abf03ea073140c60f67bad0be3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6ab94ec257b4e821d9a13e83dab01cc9fd19862df1fd9c037cfa8e32f5f381a4",
+   "exists": true,
+   "status": "ready"
+  },
+  "510601": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510602": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510603": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510604": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510605": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510606": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510607": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510608": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510609": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_06.jpg",
+   "url": "/rez/zh_CN/icon/buff/a761503ee01d4e6f51590f3a88d01e84.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65ae23f40905e75e7d12595dd33343ed77c7fd6343c0aec1b362590fa12e61f9",
+   "exists": true,
+   "status": "ready"
+  },
+  "510711": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510712": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510713": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510714": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510715": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510716": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510717": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510718": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510719": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510720": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_07.jpg",
+   "url": "/rez/zh_CN/icon/buff/2ab1ed1b7df501657d1786f4a0467096.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1271201a7e08a226b2760917b7f9d927693ed1bb58f237742109b54940192c96",
+   "exists": true,
+   "status": "ready"
+  },
+  "510801": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_08.jpg",
+   "url": "/rez/zh_CN/icon/buff/2f8400400ee4ef015b467752eb26c2b2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "026d3f25bcbe03432c87261725bd6ccc97229d4da45cbc242b82e057770f7778",
+   "exists": true,
+   "status": "ready"
+  },
+  "510901": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510902": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510903": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510904": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510905": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510906": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510907": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510908": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "510909": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_09.jpg",
+   "url": "/rez/zh_CN/icon/buff/8647f98cee7beeeb1c1b105482d681c6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "e43c982aae72a49586a74e66455aadb74798955d30c460db213a30509fb0804e",
+   "exists": true,
+   "status": "ready"
+  },
+  "511101": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511111": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511113": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "511201": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_12.jpg",
+   "url": "/rez/zh_CN/icon/buff/5883fafc3b3c63375a26dafad0059501.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "4a176d0316fd2bba9ddf0f5502fa15290710333bc4fba60aa25601f55db14f0a",
+   "exists": true,
+   "status": "ready"
+  },
+  "511501": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511502": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511503": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511504": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511505": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511506": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511507": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511508": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511509": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511511": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511512": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511513": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511514": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511515": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511516": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511517": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511518": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511519": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511220": {
+   "logical": "zh_CN/icon/buff/buff_loveheart.jpg",
+   "url": "/rez/zh_CN/icon/buff/d828a23e3b21a1b229df5c1fe792faa2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d00f72d43e17ef8919e9cdf38c937f822af0f1a029a2d0e7658358cf59451d6f",
+   "exists": true,
+   "status": "ready"
+  },
+  "511221": {
+   "logical": "zh_CN/icon/buff/buff_firework.jpg",
+   "url": "/rez/zh_CN/icon/buff/f62ed354abaa36a05cab74d864715f70.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "eb60cedabea1da8564d98e19d0d8f2e15deaec465c1f4b3b20604b45a2ebfe96",
+   "exists": true,
+   "status": "ready"
+  },
+  "511222": {
+   "logical": "zh_CN/icon/buff/buff_loveheart.jpg",
+   "url": "/rez/zh_CN/icon/buff/d828a23e3b21a1b229df5c1fe792faa2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d00f72d43e17ef8919e9cdf38c937f822af0f1a029a2d0e7658358cf59451d6f",
+   "exists": true,
+   "status": "ready"
+  },
+  "511223": {
+   "logical": "zh_CN/icon/buff/buff_firework.jpg",
+   "url": "/rez/zh_CN/icon/buff/f62ed354abaa36a05cab74d864715f70.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "eb60cedabea1da8564d98e19d0d8f2e15deaec465c1f4b3b20604b45a2ebfe96",
+   "exists": true,
+   "status": "ready"
+  },
+  "511224": {
+   "logical": "zh_CN/icon/buff/buff_loveheart.jpg",
+   "url": "/rez/zh_CN/icon/buff/d828a23e3b21a1b229df5c1fe792faa2.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d00f72d43e17ef8919e9cdf38c937f822af0f1a029a2d0e7658358cf59451d6f",
+   "exists": true,
+   "status": "ready"
+  },
+  "511225": {
+   "logical": "zh_CN/icon/buff/buff_firework.jpg",
+   "url": "/rez/zh_CN/icon/buff/f62ed354abaa36a05cab74d864715f70.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "eb60cedabea1da8564d98e19d0d8f2e15deaec465c1f4b3b20604b45a2ebfe96",
+   "exists": true,
+   "status": "ready"
+  },
+  "511301": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511302": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511303": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511304": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511305": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511306": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511307": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511308": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511309": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511311": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511312": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511313": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511314": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511315": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511316": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511317": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511318": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511319": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511321": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511322": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511323": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511324": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511325": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511326": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511327": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511328": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "511329": {
+   "logical": "zh_CN/icon/buff/buff_chengjie.jpg",
+   "url": "/rez/zh_CN/icon/buff/1a64058e47dcbfbb60fffd7256633531.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ad059a5af8e4187f7e9393e2afb0dc4e59c0d8d1e2b6717a9c79ddcc33f6b191",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030000": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030001": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030002": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030003": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030004": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030005": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030006": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "1030007": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000011": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000012": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000013": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000021": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000022": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000023": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000031": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000032": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000033": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000041": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000042": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000043": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000051": {
+   "logical": "zh_CN/icon/buff/buff_chilun.jpg",
+   "url": "/rez/zh_CN/icon/buff/9edca19a617123c68cf7f7c06ee0746f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3a6765ab9a6a5f6bc7e890d31fa1093d0227405a70655d8c79cb8d1f4a1ff042",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000052": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "7000053": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000841": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000862": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000882": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000921": {
+   "logical": "zh_CN/icon/buff/buff_eling1.jpg",
+   "url": "/rez/zh_CN/icon/buff/26c51ded4b3ee5740e52b4e895e43e55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0ab99a5c9bf50d6777cdc5524f1be8d490d17283e0e8afe617234ff83338eac4",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000942": {
+   "logical": "zh_CN/icon/buff/buff_eling1.jpg",
+   "url": "/rez/zh_CN/icon/buff/26c51ded4b3ee5740e52b4e895e43e55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0ab99a5c9bf50d6777cdc5524f1be8d490d17283e0e8afe617234ff83338eac4",
+   "exists": true,
+   "status": "ready"
+  },
+  "10000981": {
+   "logical": "zh_CN/icon/buff/buff_eling1.jpg",
+   "url": "/rez/zh_CN/icon/buff/26c51ded4b3ee5740e52b4e895e43e55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0ab99a5c9bf50d6777cdc5524f1be8d490d17283e0e8afe617234ff83338eac4",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001001": {
+   "logical": "zh_CN/icon/buff/buff_heianqishi2.jpg",
+   "url": "/rez/zh_CN/icon/buff/a30005dff62c5523bb30f04fd2879b96.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "2d1c1900b11231848d157cabd62626190d4fca50762982551da04fcfc804f4cc",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001062": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001141": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001213": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001321": {
+   "logical": "zh_CN/icon/buff/buff_qiangli02.jpg",
+   "url": "/rez/zh_CN/icon/buff/5ff8b9dea448b1b78087b0ca06b968c4.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f676b1935a0e21a295569ab3274ba543969a8be28bb2bc7ef80fe2b0c4f37e1c",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001322": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001372": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001381": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001421": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001441": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001461": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10001481": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200000": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200201": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200274": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200331": {
+   "logical": "zh_CN/icon/buff/buff_taidixiong3.jpg",
+   "url": "/rez/zh_CN/icon/buff/fa1c00c755416026158d757d8a71ded3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "696fc21544a3328a6880100a27f25f838e8fa17ec5743c45ba524680b21fcc34",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200361": {
+   "logical": "zh_CN/icon/buff/buff_eling1.jpg",
+   "url": "/rez/zh_CN/icon/buff/26c51ded4b3ee5740e52b4e895e43e55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0ab99a5c9bf50d6777cdc5524f1be8d490d17283e0e8afe617234ff83338eac4",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200372": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200382": {
+   "logical": "zh_CN/icon/buff/buff_slow.jpg",
+   "url": "/rez/zh_CN/icon/buff/489a6153063ab74371da023642723238.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ca16e2515136d296f8a6bfb1c865b5cf3d1add0b8600bcd6ea2b72c61f18940f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200383": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200392": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200393": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200411": {
+   "logical": "zh_CN/icon/buff/buff_eling1.jpg",
+   "url": "/rez/zh_CN/icon/buff/26c51ded4b3ee5740e52b4e895e43e55.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0ab99a5c9bf50d6777cdc5524f1be8d490d17283e0e8afe617234ff83338eac4",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200532": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200552": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200561": {
+   "logical": "zh_CN/icon/buff/buff_hongquan.jpg",
+   "url": "/rez/zh_CN/icon/buff/8abee90d3138bdba5ed99dc716fc4e4f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9d4c69c52ddc19ae3bc5add36aedc94f5970e5c8bae904b208806cd514f61755",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200592": {
+   "logical": "zh_CN/icon/buff/buff_hongquan.jpg",
+   "url": "/rez/zh_CN/icon/buff/8abee90d3138bdba5ed99dc716fc4e4f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9d4c69c52ddc19ae3bc5add36aedc94f5970e5c8bae904b208806cd514f61755",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200625": {
+   "logical": "zh_CN/icon/buff/buff_guide_zd_11.jpg",
+   "url": "/rez/zh_CN/icon/buff/b1af72b7441c823b075423e0d3740fa3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c49c7ca421f14512ed8c6f584e324fec0c33cd6cd15cd8d3877996033b96cefc",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200661": {
+   "logical": "zh_CN/icon/buff/buff_bingdong.jpg",
+   "url": "/rez/zh_CN/icon/buff/4b0bfea6345b401249bd1a37af0784be.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77a1321ff4b90a88699fefa0d334b525ee51d5146547baca5f6bf235af86657d",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200671": {
+   "logical": "zh_CN/icon/buff/buff_bingdong.jpg",
+   "url": "/rez/zh_CN/icon/buff/4b0bfea6345b401249bd1a37af0784be.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77a1321ff4b90a88699fefa0d334b525ee51d5146547baca5f6bf235af86657d",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200681": {
+   "logical": "zh_CN/icon/buff/buff_bingdong.jpg",
+   "url": "/rez/zh_CN/icon/buff/4b0bfea6345b401249bd1a37af0784be.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77a1321ff4b90a88699fefa0d334b525ee51d5146547baca5f6bf235af86657d",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200693": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200701": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200721": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200762": {
+   "logical": "zh_CN/icon/buff/buff_du.jpg",
+   "url": "/rez/zh_CN/icon/buff/0233fba6e6500c0159e42a744fce2767.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ab691b448f62a6aacc974c7f71b0d578ce6859818c33fbe54650bbdd6642100a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200764": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200771": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200772": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200773": {
+   "logical": "zh_CN/icon/buff/buff_damage.jpg",
+   "url": "/rez/zh_CN/icon/buff/628ae6ac32f5289158621d6e789791a7.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9835e4ba67c8d52e4a9a6afaf4e965f83d2beb6a93e5006ef03312877a16f27f",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200882": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200891": {
+   "logical": "zh_CN/icon/buff/buff_fajiazhao.jpg",
+   "url": "/rez/zh_CN/icon/buff/60c8c2b46fc07b8029a74554ac02093b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d02b9dd4723d81c15c80b21205284f6df3c425e59effa8c2259c5c89846b978a",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200921": {
+   "logical": "zh_CN/icon/buff/blood.jpg",
+   "url": "/rez/zh_CN/icon/buff/20769d06ded4f6f58acfcac6f9816852.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5cd428b627af9f6cb947cd42723da6161698a36d007ed83631f8391f2026ad5b",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200933": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200936": {
+   "logical": "zh_CN/icon/buff/buff_dizhen.jpg",
+   "url": "/rez/zh_CN/icon/buff/e048e63104ff20d30970aab05df3ce2e.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "543c35aa7cd9e86984a47b615a1befaa4339c5b227fb84d2639d347cf0af9fba",
+   "exists": true,
+   "status": "ready"
+  },
+  "10200994": {
+   "logical": "zh_CN/icon/buff/buff_baohu.jpg",
+   "url": "/rez/zh_CN/icon/buff/bf812a63a75830abf025118932289192.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8978751028fd18b03bb61c7a7eeeff2abe636ba128b640e73bbfdc2b5fef417c",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201003": {
+   "logical": "zh_CN/icon/buff/buff_baohu.jpg",
+   "url": "/rez/zh_CN/icon/buff/bf812a63a75830abf025118932289192.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8978751028fd18b03bb61c7a7eeeff2abe636ba128b640e73bbfdc2b5fef417c",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201005": {
+   "logical": "zh_CN/icon/buff/buff_baohu.jpg",
+   "url": "/rez/zh_CN/icon/buff/bf812a63a75830abf025118932289192.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8978751028fd18b03bb61c7a7eeeff2abe636ba128b640e73bbfdc2b5fef417c",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201122": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201141": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201151": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10201211": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10300062": {
+   "logical": "zh_CN/icon/buff/buff_hongquan.jpg",
+   "url": "/rez/zh_CN/icon/buff/8abee90d3138bdba5ed99dc716fc4e4f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9d4c69c52ddc19ae3bc5add36aedc94f5970e5c8bae904b208806cd514f61755",
+   "exists": true,
+   "status": "ready"
+  },
+  "10301022": {
+   "logical": "zh_CN/icon/buff/buff_hongquan.jpg",
+   "url": "/rez/zh_CN/icon/buff/8abee90d3138bdba5ed99dc716fc4e4f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9d4c69c52ddc19ae3bc5add36aedc94f5970e5c8bae904b208806cd514f61755",
+   "exists": true,
+   "status": "ready"
+  },
+  "10302002": {
+   "logical": "zh_CN/icon/buff/buff_hongquan.jpg",
+   "url": "/rez/zh_CN/icon/buff/8abee90d3138bdba5ed99dc716fc4e4f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9d4c69c52ddc19ae3bc5add36aedc94f5970e5c8bae904b208806cd514f61755",
+   "exists": true,
+   "status": "ready"
+  },
+  "10400193": {
+   "logical": "zh_CN/icon/buff/buff_xuanyun.jpg",
+   "url": "/rez/zh_CN/icon/buff/4d84932e44d57c84f32cee8a241a7af6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f86c099e2267ab1a880fa70572166e520b45ba18fff83dc83580486af5bc0789",
+   "exists": true,
+   "status": "ready"
+  },
+  "10400614": {
+   "logical": "zh_CN/icon/buff/buff_xiedu1.jpg",
+   "url": "/rez/zh_CN/icon/buff/2cc3201341d7f87499943b01f634ee7c.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7eff0bd271dce66a638f165713c14661001ca1235340dd095155836715808ab0",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401301": {
+   "logical": "zh_CN/icon/buff/buff_xiedu1.jpg",
+   "url": "/rez/zh_CN/icon/buff/2cc3201341d7f87499943b01f634ee7c.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7eff0bd271dce66a638f165713c14661001ca1235340dd095155836715808ab0",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401302": {
+   "logical": "zh_CN/icon/buff/buff_xiedu2.jpg",
+   "url": "/rez/zh_CN/icon/buff/34668a8484b3494648662568e68479d3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ee9312e91d1f2490df3d7431b3ee95cef1a147195a782619293a87c4fc4a8066",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401303": {
+   "logical": "zh_CN/icon/buff/buff_xiedu3.jpg",
+   "url": "/rez/zh_CN/icon/buff/c0d79ed149e9cf90ee13807e6608f06a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65f990996353cad2319813f34a0ff56a1fbecab7328441b885b8cd45ca665cca",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401304": {
+   "logical": "zh_CN/icon/buff/buff_xiedu4.jpg",
+   "url": "/rez/zh_CN/icon/buff/452e62cde30c271a3d1ab92a501eb402.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bf9c0261537109aa7581794f4b6ece3f436a5cd0c7dc9bfc2b6bcf4f54d31522",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401305": {
+   "logical": "zh_CN/icon/buff/buff_xiedu1.jpg",
+   "url": "/rez/zh_CN/icon/buff/2cc3201341d7f87499943b01f634ee7c.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7eff0bd271dce66a638f165713c14661001ca1235340dd095155836715808ab0",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401306": {
+   "logical": "zh_CN/icon/buff/buff_xiedu2.jpg",
+   "url": "/rez/zh_CN/icon/buff/34668a8484b3494648662568e68479d3.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "ee9312e91d1f2490df3d7431b3ee95cef1a147195a782619293a87c4fc4a8066",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401307": {
+   "logical": "zh_CN/icon/buff/buff_xiedu3.jpg",
+   "url": "/rez/zh_CN/icon/buff/c0d79ed149e9cf90ee13807e6608f06a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65f990996353cad2319813f34a0ff56a1fbecab7328441b885b8cd45ca665cca",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401308": {
+   "logical": "zh_CN/icon/buff/buff_xiedu3.jpg",
+   "url": "/rez/zh_CN/icon/buff/c0d79ed149e9cf90ee13807e6608f06a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65f990996353cad2319813f34a0ff56a1fbecab7328441b885b8cd45ca665cca",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401309": {
+   "logical": "zh_CN/icon/buff/buff_xiedu3.jpg",
+   "url": "/rez/zh_CN/icon/buff/c0d79ed149e9cf90ee13807e6608f06a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65f990996353cad2319813f34a0ff56a1fbecab7328441b885b8cd45ca665cca",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401310": {
+   "logical": "zh_CN/icon/buff/buff_xiedu3.jpg",
+   "url": "/rez/zh_CN/icon/buff/c0d79ed149e9cf90ee13807e6608f06a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "65f990996353cad2319813f34a0ff56a1fbecab7328441b885b8cd45ca665cca",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401411": {
+   "logical": "zh_CN/icon/buff/buff_xiedu4.jpg",
+   "url": "/rez/zh_CN/icon/buff/452e62cde30c271a3d1ab92a501eb402.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "bf9c0261537109aa7581794f4b6ece3f436a5cd0c7dc9bfc2b6bcf4f54d31522",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401611": {
+   "logical": "zh_CN/icon/buff/buff_suolong01.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e4b8ed19619a3d5f7962302c13735f9.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d432c53e13a7d4cc89b58177ad853497ba3fda1365e8ea760e440da78d68f490",
+   "exists": true,
+   "status": "ready"
+  },
+  "10401911": {
+   "logical": "zh_CN/icon/buff/buff_jiasu.jpg",
+   "url": "/rez/zh_CN/icon/buff/7fa9b5fa5fc1e60fba2ecf608c18faac.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "50402627fffd866b4f79044434369b930d3aff2be79a5da371a13daf8b4c9fa5",
+   "exists": true,
+   "status": "ready"
+  },
+  "10402011": {
+   "logical": "zh_CN/icon/buff/buff_wangchong1.jpg",
+   "url": "/rez/zh_CN/icon/buff/3036dc3c04e051dc939052af809fc01d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d46eef41ae17310001523bfe5d9ebb4e871df4cc07c74c9a89c3108105e965f1",
+   "exists": true,
+   "status": "ready"
+  },
+  "107032": {
+   "logical": "zh_CN/icon/buff/buff_shield.jpg",
+   "url": "/rez/zh_CN/icon/buff/ddac004a5b5d958e3ca6bbcb2f85bb7f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "104a543434f44436374ed079a1b6e4d7950f432dd37130f0d54a48664dd46f9a",
+   "exists": true,
+   "status": "ready"
+  },
+  "200004": {
+   "logical": "zh_CN/icon/buff/buff_xianxing.jpg",
+   "url": "/rez/zh_CN/icon/buff/8c6b801434839d5e4169d0e5ac01ddcf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "307046644191ff762796ca527f73cd8ad11753626e244cf722880438666da6c9",
+   "exists": true,
+   "status": "ready"
+  },
+  "200006": {
+   "logical": "zh_CN/icon/buff/douzhiangyang.jpg",
+   "url": "/rez/zh_CN/icon/buff/47f4794d7c33d2e88a6fbbc9d64fde08.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d2e9352af24e43f1e171400285d3d2c14a80ac2307d30fcd61194388b61feaac",
+   "exists": true,
+   "status": "ready"
+  },
+  "480121": {
+   "logical": "zh_CN/icon/buff/buff_xiaolimao011.jpg",
+   "url": "/rez/zh_CN/icon/buff/07a6264d25bf90b5d98219ee027d4622.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "dea0ad4b07e3dc0a6aeed834023006dfca124ee4f3dce6d80193372902198002",
+   "exists": true,
+   "status": "ready"
+  },
+  "621121": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621122": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621123": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621124": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621111": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621102": {
+   "logical": "zh_CN/icon/buff/buff_xianxing.jpg",
+   "url": "/rez/zh_CN/icon/buff/8c6b801434839d5e4169d0e5ac01ddcf.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "307046644191ff762796ca527f73cd8ad11753626e244cf722880438666da6c9",
+   "exists": true,
+   "status": "ready"
+  },
+  "621113": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf04.jpg",
+   "url": "/rez/zh_CN/icon/buff/0f366e31a51c190675aba7a282c72ce6.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "99e71c5666711591554c2a1c9230808a826371089bfa15d561089e70298cc81c",
+   "exists": true,
+   "status": "ready"
+  },
+  "621301": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf03.jpg",
+   "url": "/rez/zh_CN/icon/buff/aa4262fda9de0ac7804c0893b70d0a72.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f7e78aff4516b7d557f87e8f0c0020462d54e05a2b8754739e4c9c6b7f5d158f",
+   "exists": true,
+   "status": "ready"
+  },
+  "621402": {
+   "logical": "zh_CN/icon/buff/buff_bika_pf03.jpg",
+   "url": "/rez/zh_CN/icon/buff/aa4262fda9de0ac7804c0893b70d0a72.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f7e78aff4516b7d557f87e8f0c0020462d54e05a2b8754739e4c9c6b7f5d158f",
+   "exists": true,
+   "status": "ready"
+  },
+  "462312": {
+   "logical": "zh_CN/icon/buff/buff_shanshen201.jpg",
+   "url": "/rez/zh_CN/icon/buff/2c71f68dc0099d115b710d605655eaf5.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c1bf6203f7f7dead7166b57a6771e6b693e09c9ca732172c2d98f773231db307",
+   "exists": true,
+   "status": "ready"
+  },
+  "462332": {
+   "logical": "zh_CN/icon/buff/buff_shanshen201.jpg",
+   "url": "/rez/zh_CN/icon/buff/2c71f68dc0099d115b710d605655eaf5.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c1bf6203f7f7dead7166b57a6771e6b693e09c9ca732172c2d98f773231db307",
+   "exists": true,
+   "status": "ready"
+  },
+  "462343": {
+   "logical": "zh_CN/icon/buff/buff_shanshen201.jpg",
+   "url": "/rez/zh_CN/icon/buff/2c71f68dc0099d115b710d605655eaf5.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "c1bf6203f7f7dead7166b57a6771e6b693e09c9ca732172c2d98f773231db307",
+   "exists": true,
+   "status": "ready"
+  },
+  "462402": {
+   "logical": "zh_CN/icon/buff/buff_dadizhinu201.jpg",
+   "url": "/rez/zh_CN/icon/buff/e97639243e989177091193f5ab29865b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7526a653517326e258ab9ba3cdbc0a2b883270e0bcd4c69f564b8dd5ab56d7cd",
+   "exists": true,
+   "status": "ready"
+  },
+  "427101": {
+   "logical": "zh_CN/icon/buff/buff_guihuonangua_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/137ca5aa447dda5434e1fb37a90efa37.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9f36a9470c834a630ddad74bd64c91e2d6b1a1eea5d1d2da0f0ad0fdc7f2cc26",
+   "exists": true,
+   "status": "ready"
+  },
+  "427113": {
+   "logical": "zh_CN/icon/buff/buff_guihuonangua_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/137ca5aa447dda5434e1fb37a90efa37.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9f36a9470c834a630ddad74bd64c91e2d6b1a1eea5d1d2da0f0ad0fdc7f2cc26",
+   "exists": true,
+   "status": "ready"
+  },
+  "427222": {
+   "logical": "zh_CN/icon/buff/buff_guihuonangua_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/137ca5aa447dda5434e1fb37a90efa37.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9f36a9470c834a630ddad74bd64c91e2d6b1a1eea5d1d2da0f0ad0fdc7f2cc26",
+   "exists": true,
+   "status": "ready"
+  },
+  "427231": {
+   "logical": "zh_CN/icon/buff/buff_guihuonangua_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/137ca5aa447dda5434e1fb37a90efa37.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9f36a9470c834a630ddad74bd64c91e2d6b1a1eea5d1d2da0f0ad0fdc7f2cc26",
+   "exists": true,
+   "status": "ready"
+  },
+  "427232": {
+   "logical": "zh_CN/icon/buff/buff_guihuonangua_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/137ca5aa447dda5434e1fb37a90efa37.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "9f36a9470c834a630ddad74bd64c91e2d6b1a1eea5d1d2da0f0ad0fdc7f2cc26",
+   "exists": true,
+   "status": "ready"
+  },
+  "427302": {
+   "logical": "zh_CN/icon/buff/buff_xielingfuti_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/bba93e42f6bc3ee3cf4e0e1951659acb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f04545759e797b09b5fdce0c002d58264bb54300778e5b93270c1140a4bc45b4",
+   "exists": true,
+   "status": "ready"
+  },
+  "410301": {
+   "logical": "zh_CN/icon/buff/buff_angel_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/910b6bd12219ec7e595ddabf2d57f9db.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f4cdc9a9ee2bf1d0b719f897a1529a38f5ff5fd5cd10923533acfe0a2314dbe",
+   "exists": true,
+   "status": "ready"
+  },
+  "410311": {
+   "logical": "zh_CN/icon/buff/buff_angel_03.jpg",
+   "url": "/rez/zh_CN/icon/buff/910b6bd12219ec7e595ddabf2d57f9db.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f4cdc9a9ee2bf1d0b719f897a1529a38f5ff5fd5cd10923533acfe0a2314dbe",
+   "exists": true,
+   "status": "ready"
+  },
+  "410702": {
+   "logical": "zh_CN/icon/buff/buff_angel_13.jpg",
+   "url": "/rez/zh_CN/icon/buff/a5bcd8896b9192eadbcc472f77963d80.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "92e95ad6582de8c8572f44d6f587cad7af8cacbbc99aa72fb17ad51d5dd93ecd",
+   "exists": true,
+   "status": "ready"
+  },
+  "442112": {
+   "logical": "zh_CN/icon/buff/buff_shouwang01_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/cb32cd89b2ca7929a2bc7a87756652d4.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "442202": {
+   "logical": "zh_CN/icon/buff/buff_shouwang02_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/9f5ad31215b329e3e68bc59fa3380535.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0cf789593a86ce55f6611a05f635aa5438966c3d342ec2da3d7d975f4a78b5e3",
+   "exists": true,
+   "status": "ready"
+  },
+  "442212": {
+   "logical": "zh_CN/icon/buff/buff_shouwang02_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/9f5ad31215b329e3e68bc59fa3380535.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0cf789593a86ce55f6611a05f635aa5438966c3d342ec2da3d7d975f4a78b5e3",
+   "exists": true,
+   "status": "ready"
+  },
+  "442312": {
+   "logical": "zh_CN/icon/buff/buff_shouwang03_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/05eed9bc64cedd74c68e6374bc1c5246.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "162a8c223f053c9222d608e962b6540937bbfbdf80a4cfffaf618d2181977efe",
+   "exists": true,
+   "status": "ready"
+  },
+  "442313": {
+   "logical": "zh_CN/icon/buff/buff_shouwang03_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/05eed9bc64cedd74c68e6374bc1c5246.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "162a8c223f053c9222d608e962b6540937bbfbdf80a4cfffaf618d2181977efe",
+   "exists": true,
+   "status": "ready"
+  },
+  "442321": {
+   "logical": "zh_CN/icon/buff/buff_shouwang03_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/05eed9bc64cedd74c68e6374bc1c5246.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "162a8c223f053c9222d608e962b6540937bbfbdf80a4cfffaf618d2181977efe",
+   "exists": true,
+   "status": "ready"
+  },
+  "473111": {
+   "logical": "zh_CN/icon/buff/buff_xiedu101.jpg",
+   "url": "/rez/zh_CN/icon/buff/f65ac6e730f9526278a0ff69fe994538.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "95e29b73739957622aa46ae251b13d27cdc169728ce7abe767a47bd112e5c821",
+   "exists": true,
+   "status": "ready"
+  },
+  "473112": {
+   "logical": "zh_CN/icon/buff/buff_xiedu102.jpg",
+   "url": "/rez/zh_CN/icon/buff/1bc4c5c29d7a5fe6e38f9cc5191fb465.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5eb9e1a5ea4c00fcf2ed771525f84e0b5ec9b2819a4d1a64998027efede5e5dc",
+   "exists": true,
+   "status": "ready"
+  },
+  "473113": {
+   "logical": "zh_CN/icon/buff/buff_xiedu103.jpg",
+   "url": "/rez/zh_CN/icon/buff/afc28f4bdf98764f9c7387209ec63e2f.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df8adaa41ce1b8248ce55c52afd8cabff87b80b48ba8a36adf6e0e530ea31d25",
+   "exists": true,
+   "status": "ready"
+  },
+  "473114": {
+   "logical": "zh_CN/icon/buff/buff_xiedu104.jpg",
+   "url": "/rez/zh_CN/icon/buff/3846dfb61ec2a41df011e4c06fa05426.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "17718637c2b55a65fd69687218d90a6cdf0fe5ad6ac9bc8248bc2bd394c57275",
+   "exists": true,
+   "status": "ready"
+  },
+  "473115": {
+   "logical": "zh_CN/icon/buff/buff_xiedu105.jpg",
+   "url": "/rez/zh_CN/icon/buff/885e0332c1baa49c890f9eadea56b071.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "03d598900814607a754ed84140f6c0da4c1f46de1702b3ad454ee1c6e984da2b",
+   "exists": true,
+   "status": "ready"
+  },
+  "473116": {
+   "logical": "zh_CN/icon/buff/buff_xiedu106.jpg",
+   "url": "/rez/zh_CN/icon/buff/5b9614ce3c68608487777a2159b84a22.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "f7758158074a97c4bc8273345c3cf020907fac3ff52cb9aa72f172c10507fa06",
+   "exists": true,
+   "status": "ready"
+  },
+  "473117": {
+   "logical": "zh_CN/icon/buff/buff_xiedu107.jpg",
+   "url": "/rez/zh_CN/icon/buff/951efa8619b73cfd3da183570e6b7898.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "6f9a24936bef5af5e555f93b73b0419c1228dd704d32cd82e879bcc8443564d8",
+   "exists": true,
+   "status": "ready"
+  },
+  "473118": {
+   "logical": "zh_CN/icon/buff/buff_xiedu108.jpg",
+   "url": "/rez/zh_CN/icon/buff/10c2b6d364ab9cd8fda7fa5b21636c3d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "11635c84a9c34d661bf00250f6dcce7696a81abd4e4209290d2105d472633a5e",
+   "exists": true,
+   "status": "ready"
+  },
+  "473119": {
+   "logical": "zh_CN/icon/buff/buff_xiedu109.jpg",
+   "url": "/rez/zh_CN/icon/buff/5137a21b58296ea9d00de10881293e1b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a4c3891a4f11de951507daecb99ab2eb6b1bef9c131aee35ed2c9fa765c08720",
+   "exists": true,
+   "status": "ready"
+  },
+  "473120": {
+   "logical": "zh_CN/icon/buff/buff_xiedu110.jpg",
+   "url": "/rez/zh_CN/icon/buff/3272f84d1171973be1534cff53094fec.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "5a3a2c7f4ac1d70d409c62743b4f626677c37fae681f29438caf498819c3c251",
+   "exists": true,
+   "status": "ready"
+  },
+  "473201": {
+   "logical": "zh_CN/icon/buff/buff_wuran01.jpg",
+   "url": "/rez/zh_CN/icon/buff/8cd572586480ea3bb7112cb182346ede.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1210bcbe07cfa15df985223084031833f0b79d51dda2e8f3c6e363567ff8938d",
+   "exists": true,
+   "status": "ready"
+  },
+  "473321": {
+   "logical": "zh_CN/icon/buff/buff_wuran01.jpg",
+   "url": "/rez/zh_CN/icon/buff/8cd572586480ea3bb7112cb182346ede.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "1210bcbe07cfa15df985223084031833f0b79d51dda2e8f3c6e363567ff8938d",
+   "exists": true,
+   "status": "ready"
+  },
+  "648402": {
+   "logical": "zh_CN/icon/buff/buff_diaochan04.jpg",
+   "url": "/rez/zh_CN/icon/buff/29ce3a4d4238669ff9a40ac809aa739b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "23ebddbe727154b892ec072817a9f3d2a1add46ab607bd9da3acbca3d6e8ab01",
+   "exists": true,
+   "status": "ready"
+  },
+  "474302": {
+   "logical": "zh_CN/icon/buff/buff_sanli01_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/46e2a890ace016d40ba46c5131ccd4e5.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "b23b2a4cdace4c351962d17c6408a0e80138755bc2fcb3e891534540e4563287",
+   "exists": true,
+   "status": "ready"
+  },
+  "474502": {
+   "logical": "zh_CN/icon/buff/buff_sanli02_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/549f2927ba47d61962afdd6a48023040.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77f20bca2bda00dcf6eee3039146e75df6bb601641d92da041a20b7caa3ac2eb",
+   "exists": true,
+   "status": "ready"
+  },
+  "474504": {
+   "logical": "zh_CN/icon/buff/buff_sanli02_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/549f2927ba47d61962afdd6a48023040.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77f20bca2bda00dcf6eee3039146e75df6bb601641d92da041a20b7caa3ac2eb",
+   "exists": true,
+   "status": "ready"
+  },
+  "474602": {
+   "logical": "zh_CN/icon/buff/buff_sanli02_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/549f2927ba47d61962afdd6a48023040.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "77f20bca2bda00dcf6eee3039146e75df6bb601641d92da041a20b7caa3ac2eb",
+   "exists": true,
+   "status": "ready"
+  },
+  "477304": {
+   "logical": "zh_CN/icon/buff/buff_haiyao06_pf01.jpg",
+   "url": "/rez/zh_CN/icon/buff/523ddaf205a9727d986ef20f87d5379c.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a220b8b19d4986932d1a9a04fb9c0f980e67421c1466bf72f6c642891cee0102",
+   "exists": true,
+   "status": "ready"
+  },
+  "387302": {
+   "logical": "zh_CN/icon/buff/buff_longtaizik.jpg",
+   "url": "/rez/zh_CN/icon/buff/88fe997a9efb8fa8ee984b491545a3f8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "387303": {
+   "logical": "zh_CN/icon/buff/buff_longtaizik.jpg",
+   "url": "/rez/zh_CN/icon/buff/88fe997a9efb8fa8ee984b491545a3f8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "387314": {
+   "logical": "zh_CN/icon/buff/buff_longtaizik.jpg",
+   "url": "/rez/zh_CN/icon/buff/88fe997a9efb8fa8ee984b491545a3f8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "609101": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e3643697e82baa28367c14865cccdfb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3572bbd1bf19beafa1cea976bb46137b3c42f5d833cd95847b95af9bfc11cc55",
+   "exists": true,
+   "status": "ready"
+  },
+  "609102": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e3643697e82baa28367c14865cccdfb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3572bbd1bf19beafa1cea976bb46137b3c42f5d833cd95847b95af9bfc11cc55",
+   "exists": true,
+   "status": "ready"
+  },
+  "609105": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e3643697e82baa28367c14865cccdfb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3572bbd1bf19beafa1cea976bb46137b3c42f5d833cd95847b95af9bfc11cc55",
+   "exists": true,
+   "status": "ready"
+  },
+  "609210": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfe2.jpg",
+   "url": "/rez/zh_CN/icon/buff/6f9a1018f1906f7a62637329bbe71857.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "952ffe51e06dfe8b52a3cc46a43690f41bc7d31a6ddc15710e6ad6c9b897a5b1",
+   "exists": true,
+   "status": "ready"
+  },
+  "609301": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfk.jpg",
+   "url": "/rez/zh_CN/icon/buff/59e20829332348c332b4be052718ebce.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f01093d36fe7b160303437ce3b2abba4dcedba556837da9fe55d80ef928fbf3",
+   "exists": true,
+   "status": "ready"
+  },
+  "609303": {
+   "logical": "zh_CN/icon/buff/buff_longtaizik.jpg",
+   "url": "/rez/zh_CN/icon/buff/88fe997a9efb8fa8ee984b491545a3f8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "609313": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfk.jpg",
+   "url": "/rez/zh_CN/icon/buff/59e20829332348c332b4be052718ebce.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f01093d36fe7b160303437ce3b2abba4dcedba556837da9fe55d80ef928fbf3",
+   "exists": true,
+   "status": "ready"
+  },
+  "609312": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfk.jpg",
+   "url": "/rez/zh_CN/icon/buff/59e20829332348c332b4be052718ebce.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f01093d36fe7b160303437ce3b2abba4dcedba556837da9fe55d80ef928fbf3",
+   "exists": true,
+   "status": "ready"
+  },
+  "609327": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfk.jpg",
+   "url": "/rez/zh_CN/icon/buff/59e20829332348c332b4be052718ebce.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "7f01093d36fe7b160303437ce3b2abba4dcedba556837da9fe55d80ef928fbf3",
+   "exists": true,
+   "status": "ready"
+  },
+  "609402": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e3643697e82baa28367c14865cccdfb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3572bbd1bf19beafa1cea976bb46137b3c42f5d833cd95847b95af9bfc11cc55",
+   "exists": true,
+   "status": "ready"
+  },
+  "609404": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfe2.jpg",
+   "url": "/rez/zh_CN/icon/buff/6f9a1018f1906f7a62637329bbe71857.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "952ffe51e06dfe8b52a3cc46a43690f41bc7d31a6ddc15710e6ad6c9b897a5b1",
+   "exists": true,
+   "status": "ready"
+  },
+  "609405": {
+   "logical": "zh_CN/icon/buff/buff_longtaizi_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/7e3643697e82baa28367c14865cccdfb.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3572bbd1bf19beafa1cea976bb46137b3c42f5d833cd95847b95af9bfc11cc55",
+   "exists": true,
+   "status": "ready"
+  },
+  "675102": {
+   "logical": "zh_CN/icon/buff/buff_heibao_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/3baeed6ea09ffad9ec515be322940f90.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "264465e69dacfad2b77f9075298c98899930d73d71b83a36d5b820e1101af2fd",
+   "exists": true,
+   "status": "ready"
+  },
+  "678131": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/f100d5d5910de8ecc617296b3620d87a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0f2126c44758cd0d6c31c5740f52791ce7eff8741286f47f46c6cf4f07bbf10b",
+   "exists": true,
+   "status": "ready"
+  },
+  "678202": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfe.jpg",
+   "url": "/rez/zh_CN/icon/buff/f5348ddaaa556eeae0dcb1fecd125b8e.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "fbb7ee88ee076e17531742b253b3ac3d393062e2a26e050533e26e3e1e4cf4f4",
+   "exists": true,
+   "status": "ready"
+  },
+  "678213": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfe.jpg",
+   "url": "/rez/zh_CN/icon/buff/f5348ddaaa556eeae0dcb1fecd125b8e.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "fbb7ee88ee076e17531742b253b3ac3d393062e2a26e050533e26e3e1e4cf4f4",
+   "exists": true,
+   "status": "ready"
+  },
+  "678402": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/f100d5d5910de8ecc617296b3620d87a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0f2126c44758cd0d6c31c5740f52791ce7eff8741286f47f46c6cf4f07bbf10b",
+   "exists": true,
+   "status": "ready"
+  },
+  "678411": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/f100d5d5910de8ecc617296b3620d87a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0f2126c44758cd0d6c31c5740f52791ce7eff8741286f47f46c6cf4f07bbf10b",
+   "exists": true,
+   "status": "ready"
+  },
+  "678502": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/f100d5d5910de8ecc617296b3620d87a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0f2126c44758cd0d6c31c5740f52791ce7eff8741286f47f46c6cf4f07bbf10b",
+   "exists": true,
+   "status": "ready"
+  },
+  "678503": {
+   "logical": "zh_CN/icon/buff/buff_niumo_pfr.jpg",
+   "url": "/rez/zh_CN/icon/buff/f100d5d5910de8ecc617296b3620d87a.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "0f2126c44758cd0d6c31c5740f52791ce7eff8741286f47f46c6cf4f07bbf10b",
+   "exists": true,
+   "status": "ready"
+  },
+  "680111": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680121": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680122": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680123": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680124": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680125": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680126": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680146": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680147": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680214": {
+   "logical": "zh_CN/icon/buff/buff_liao_e.jpg",
+   "url": "/rez/zh_CN/icon/buff/2bb52c645678f0d7eaff6c960789b287.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8960ca7c5da3f07fa72b03e714bb13f42a8a60392cc4304947216d9a1f491658",
+   "exists": true,
+   "status": "ready"
+  },
+  "680212": {
+   "logical": "zh_CN/icon/buff/buff_liao_e.jpg",
+   "url": "/rez/zh_CN/icon/buff/2bb52c645678f0d7eaff6c960789b287.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8960ca7c5da3f07fa72b03e714bb13f42a8a60392cc4304947216d9a1f491658",
+   "exists": true,
+   "status": "ready"
+  },
+  "680213": {
+   "logical": "zh_CN/icon/buff/buff_liao_e.jpg",
+   "url": "/rez/zh_CN/icon/buff/2bb52c645678f0d7eaff6c960789b287.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8960ca7c5da3f07fa72b03e714bb13f42a8a60392cc4304947216d9a1f491658",
+   "exists": true,
+   "status": "ready"
+  },
+  "680301": {
+   "logical": "zh_CN/icon/buff/buff_liao_k.jpg",
+   "url": "/rez/zh_CN/icon/buff/4017d162ebd52081e75327cded8b3a5b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8b211ae366840d4ecdba817b06a092bba1e75e9a666614410e8f4e9bf70a9874",
+   "exists": true,
+   "status": "ready"
+  },
+  "680312": {
+   "logical": "zh_CN/icon/buff/buff_liao_k.jpg",
+   "url": "/rez/zh_CN/icon/buff/4017d162ebd52081e75327cded8b3a5b.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "8b211ae366840d4ecdba817b06a092bba1e75e9a666614410e8f4e9bf70a9874",
+   "exists": true,
+   "status": "ready"
+  },
+  "680401": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680402": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680403": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680404": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "680413": {
+   "logical": "zh_CN/icon/buff/buff_liao_r.jpg",
+   "url": "/rez/zh_CN/icon/buff/a8e4f7bd7e01eac2614ec6df6fb2c0d0.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "df81b1667506dd44ad9207d20e164bd8ae30cad36691d38d836cdac2ce6dc0af",
+   "exists": true,
+   "status": "ready"
+  },
+  "403101": {
+   "logical": "zh_CN/icon/buff/buff_wangchong1.jpg",
+   "url": "/rez/zh_CN/icon/buff/3036dc3c04e051dc939052af809fc01d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d46eef41ae17310001523bfe5d9ebb4e871df4cc07c74c9a89c3108105e965f1",
+   "exists": true,
+   "status": "ready"
+  },
+  "403102": {
+   "logical": "zh_CN/icon/buff/buff_wangchong1.jpg",
+   "url": "/rez/zh_CN/icon/buff/3036dc3c04e051dc939052af809fc01d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "d46eef41ae17310001523bfe5d9ebb4e871df4cc07c74c9a89c3108105e965f1",
+   "exists": true,
+   "status": "ready"
+  },
+  "403211": {
+   "logical": "zh_CN/icon/buff/buff_wangchong2.jpg",
+   "url": "/rez/zh_CN/icon/buff/b821094e858813c22fba494424e8e3e1.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a88c3a6b6d33b6bc0ce945d07c4ef9195cfa67975e4208ddf85c608583c348f6",
+   "exists": true,
+   "status": "ready"
+  },
+  "403311": {
+   "logical": "zh_CN/icon/buff/buff_wangchong3.jpg",
+   "url": "/rez/zh_CN/icon/buff/85b8fd1adf719fcf1db20ff243478398.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "2a659924e31bf3e12ccffad9f2fbb08dbc2496bb8b5516b3456d785435d78794",
+   "exists": true,
+   "status": "ready"
+  },
+  "651302": {
+   "logical": "zh_CN/icon/buff/buff_douwa01_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/ff3dfd89d5320513a2a85f2d5f1172e8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a7355ec71e81977d5efc4553a7177efa0c58a04fb452713d95799e804b95343d",
+   "exists": true,
+   "status": "ready"
+  },
+  "651303": {
+   "logical": "zh_CN/icon/buff/buff_douwa01_pf02.jpg",
+   "url": "/rez/zh_CN/icon/buff/ff3dfd89d5320513a2a85f2d5f1172e8.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "a7355ec71e81977d5efc4553a7177efa0c58a04fb452713d95799e804b95343d",
+   "exists": true,
+   "status": "ready"
+  },
+  "452302": {
+   "logical": "zh_CN/icon/buff/buff_moshushi01.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb6bcac88bf585568f6bd12115bca13d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3d26a3f17fa7db447f789b21ad8e1e54ba4e4f50aab1d6bc307e4b54386d9d4d",
+   "exists": true,
+   "status": "ready"
+  },
+  "452303": {
+   "logical": "zh_CN/icon/buff/buff_moshushi01.jpg",
+   "url": "/rez/zh_CN/icon/buff/bb6bcac88bf585568f6bd12115bca13d.jpg",
+   "width": 32,
+   "height": 32,
+   "sha256": "3d26a3f17fa7db447f789b21ad8e1e54ba4e4f50aab1d6bc307e4b54386d9d4d",
+   "exists": true,
+   "status": "ready"
+  }
+ }
+}

@@ -28,7 +28,10 @@ class _TableRows(tuple):
         return self.indexes[field].get(str(value), ())
 
 
-@lru_cache(maxsize=16)
+# Performance: ~24 static tables share this cache. At 16, lobby tables (Item,
+# Booster, Crystal...) evicted combat tables, which were then re-read from
+# SQLite (~100 ms) inside a live tick. Static data; memory is bounded.
+@lru_cache(maxsize=64)
 def _rows(filename: str, database: str) -> tuple[dict[str, str], ...]:
     from world_boss_data import merge_rows
     return _TableRows(merge_rows(filename, template_rows(filename)))
@@ -41,11 +44,11 @@ def preload():
     # static tables here, before accepting sockets, rather than opening SQLite
     # for the first spawn/fireball inside a live combat tick.
     for table in ('TankBase', 'TankUp', 'TankStrengthen', 'Skill', 'Effect', 'Buff',
-                  'AINpc', 'AINpcArms', 'AINpcLevel'):
+                  'AINpc', 'AINpcArms', 'AINpcLevel', 'Npc', 'BattleExp'):
         _rows(table + 'Template_table.xml', database)
 
 
-@lru_cache(maxsize=4096)
+@lru_cache(maxsize=32768)
 def _matching_row(filename: str, database: str, keys: tuple) -> dict:
     matches = [row for row in _rows(filename,database).candidates(keys)
                if all(row.get(key) == str(value) for key, value in keys)]

@@ -5,7 +5,7 @@ import {encodeFrame} from './sixcube.js';
 
 export const ROOMS_REQUEST=60006,ROOMS_REPLY=60007;
 export const ROOM_ACTIONS=Object.freeze(['status','subscribe','list','join','invite','accept','decline',
-  'team','kick','remove_bot','add_bot','bot_policy','ready','leave','rank_queue','rank_cancel']);
+  'team','kick','remove_bot','add_bot','bot_policy','map','ready','leave','rank_queue','rank_cancel']);
 const object=value=>value!==null&&typeof value==='object'&&!Array.isArray(value);
 const integer=(value,max=Number.MAX_SAFE_INTEGER)=>Number.isSafeInteger(value)&&value>=0&&value<=max;
 const id=value=>integer(value,0xffffffff)&&value>0;
@@ -38,6 +38,9 @@ export function encodeRoomsRequest(action,request_id,values={}){
     }
     if(action==='add_bot'){need(integer(values.level,6)&&values.level>=1);data.level=values.level;}
     if(action==='bot_policy'){need(ai(values.bot_ai));data.bot_ai=values.bot_ai;}
+  }else if(action==='map'){
+    need(integer(values.revision)&&typeof values.mode==='string'&&/^[A-Za-z0-9_-]{1,64}$/.test(values.mode),'Bản đồ không hợp lệ.');
+    data.revision=values.revision;data.mode=values.mode;
   }else if(action==='ready'){need(typeof values.ready==='boolean');data.ready=values.ready;}
   return encodeFrame(ROOMS_REQUEST,new Writer().string(JSON.stringify(data)).finish());
 }

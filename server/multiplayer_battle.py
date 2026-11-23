@@ -22,6 +22,9 @@ import storage
 
 log = logging.getLogger(__name__)
 TICK_SECONDS = .02
+# Live-battle durability cadence. Ticks between snapshots are still sent to
+# players immediately; only the SQLite snapshot is coalesced (crash loses <=1s).
+CHECKPOINT_SECONDS = 1.0
 LOADING_TIMEOUT = 20.0
 DISCONNECT_GRACE = 120.0
 QUEUE_BYTES = 4 * 1024 * 1024
@@ -136,6 +139,7 @@ class Match:
     inputs: deque = field(default_factory=deque)
     world_json: dict = field(default_factory=dict)
     clock_remainder: float = 0.0
+    persisted_at: float = 0.0
 
     @property
     def queue_bytes(self):
@@ -228,8 +232,17 @@ class BattleService:
                                 self._publish_status(match)
                         if dirty:
                             try:
-                                self._persist_many(dirty)
-                                for match in dirty:self._publish_committed(match)
+                                # Performance: a 50 Hz snapshot+commit of every live
+                                # room used most of the 20 ms tick budget. Persist a
+                                # live room at most once per CHECKPOINT_SECONDS;
+                                # finished/non-battle rooms (results, ranked
+                                # settlement, 1708) always commit before publishing.
+                                durable=[m for m in dirty if m.phase!='battle' or m.arena.pk['finished']
+                                         or now-m.persisted_at>=CHECKPOINT_SECONDS]
+                                if durable:self._persist_many(durable)
+                                for match in dirty:
+                                    if match.dirty:match.dirty=False  # coalesced live tick
+                                    self._publish_committed(match)
                             except Exception as exc:
                                 for match in dirty:
                                     if not match.error:log.exception('Shared room batch checkpoint failed')
@@ -708,7 +721,7 @@ class BattleService:
                 for ident,state in settled.items():
                     match.states[ident].clear();match.states[ident].update(state)
                 match.state['battle'].update(completed_recorded=True,rank_result=merged)
-            match.phase=phase;match.dirty=False
+            match.phase=phase;match.dirty=False;match.persisted_at=time.monotonic()
             if phase=='finished' and not match.finished_at:match.finished_at=time.monotonic()
             self._publish_status(match)
 

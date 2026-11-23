@@ -40,6 +40,7 @@ def schedule(arena, rec, now):
 
 def scripts(arena, script, now):
     packets=[]
+    from pve_events import run as presentation;packets+=presentation(arena,script,now)
     for kind,arg,_,_ in script:
         if kind==4:packets+=remove_objects(arena,(arg,))
         elif kind==5:stop(arena,(arg,))
@@ -162,6 +163,7 @@ def tick(arena,now):
     pve=arena.pk['pve'];packets=[]
     if not pve['started']:
         pve['started']=True;pve['stage']=1
+        from pve_events import wave_lines;packets+=wave_lines(arena,1,now)
         for rec in records(arena):
             if rec['delay']>=0:schedule(arena,rec,now)
     packets+=crossing(arena,now)

@@ -20,7 +20,9 @@ export const OBJECTIVE_MAPS=Object.freeze([
 export const PRACTICE_MAP=Object.freeze({mapId:7,mode:'test_desert',name:'Việt Dã luyện tập',group:'Luyện tập'});
 export const BATTLE_MAPS=Object.freeze([...PK_MAPS.map(row=>({...row,group:'PK'})),...OBJECTIVE_MAPS,...DEATH_MAPS,PRACTICE_MAP]);
 export const isBattleMap=id=>BATTLE_MAPS.some(row=>row.mapId===Number(id))||isPveMap(id)||Number(id)===WORLD_BOSS_MAP;
-export const isBattleMode=mode=>BATTLE_MAPS.some(row=>row.mode===mode);
+// Saved preference only: the server rolls one concrete verified map per new room.
+export const RANDOM_MODE=Object.freeze({mode:'random',name:'Ngẫu nhiên · mỗi phòng một bản đồ',group:'Ngẫu nhiên'});
+export const isBattleMode=mode=>mode===RANDOM_MODE.mode||BATTLE_MAPS.some(row=>row.mode===mode);
 // Read the acknowledged native room, never a next-match preference. Ordinary
 // map7 and ranked map7 must retain their capture-point labels and clock.
 export const isPracticeRoom=room=>Number(room?.mapId)===7&&Number(room?.roomType)===2

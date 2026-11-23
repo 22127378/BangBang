@@ -146,6 +146,14 @@ class MapObject(TankActions):
             if self.arena.geometry.id in CHAPTER2+CHAPTER3+CHAPTER4+CHAPTER5+CHAPTER6+CHAPTER7+CHAPTER8+CHAPTER9 and not self.arena.pk['finished']:
                 from pve_rules import chapter
                 packets+=chapter(self.arena).object_destroyed(self.arena,self,now)
+            elif self.arena.geometry.id in (204,205,203,206) and not self.arena.pk['finished']:
+                # Chapter one keeps its reviewed gameplay scripts; only the
+                # native presentation (dialogs/arrows) of this object is restored.
+                instance=self.id&0x3ffffff
+                definition=next((n for n in self.arena.geometry.data['npcs'] if n['instance']==instance),None)
+                if definition and definition.get('pve_scripts'):
+                    from pve_events import run as presentation
+                    packets+=presentation(self.arena,definition['pve_scripts'],now)
         return packets
 
     def explode(self,now,credit):

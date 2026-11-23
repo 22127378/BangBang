@@ -23,7 +23,7 @@ const PACKET_TYPES = new Set(['tick', 'sceneEntered', 'sceneSelf', 'sceneOthers'
   'tankAttr', 'sceneStats', 'killInfo', 'skillCooldown', 'skillChanged', 'buffTime',
   'skillStopped', 'campScore', 'battleEnd', 'bulletOrbit', 'objectThrow', 'skillDest',
   'battleExp', 'battleLevel', 'autoBulletRequest', 'hpChange', 'portalStates', 'systemError','occupyState','occupyAddScore',
-  'roundScore','roundStart','roundResult','roundAlive']);
+  'roundScore','roundStart','roundResult','roundAlive','pveDialog']);
 
 function requireTime(now) {
   if (!Number.isFinite(now)) throw new TypeError('A finite monotonic time is required');
@@ -868,6 +868,7 @@ export function applyCombatPacket(state, packet, now) {
       break;
     }
     case 'autoBulletRequest': pushEffect(state, 'autoBulletRequest', now, {}); break;
+    case 'pveDialog': pushEffect(state, 'pveDialog', now, {packet: packetData(packet)}); break;
     case 'hpChange': {
       const self = state.actors[key(state.selfObjectId)];
       for (const change of packet.changes) {

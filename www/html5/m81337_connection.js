@@ -98,6 +98,7 @@ export class M81337Connection extends M81332Connection{
     return this.roomCommand('add_bot',{camp,level:Number(setup?.enemies?.[0]||setup?.allies?.[0]||5),revision:room.revision});
   }
   setRoomBotAI(camp,bot_ai){const room=this.currentManagedRoom();return this.roomCommand('bot_policy',{camp,bot_ai,revision:room.revision});}
+  setRoomMap(mode){const room=this.currentManagedRoom();return this.roomCommand('map',{mode,revision:room.revision});}
   inviteRoomPlayer(account_id,camp){this.currentManagedRoom();return this.roomCommand('invite',{account_id,camp});}
   acceptRoomInvitation(invite_id){this.requireNoRankQueue();return this.roomCommand('accept',{invite_id});}
   declineRoomInvitation(invite_id){return this.roomCommand('decline',{invite_id});}

@@ -6,6 +6,7 @@ import {bindNativeSkillTooltip} from './m85_tank_ui.js';
 import {modeScoreView} from './m810_objectives.js';
 import {isDeathMap,deathBannerView} from './m811_death.js';
 import {m81338VisualExternal} from './m81338_level_looks.js';
+import {hasNativeBuffIcon} from './m81349_buff_icons.js';
 
 // Layout and resource joins: evidence/hud_audit/hud_layout_contract.json.
 // This module only presents accepted native state. It has no network handle.
@@ -112,7 +113,7 @@ export function roboHudBuffs(self, catalog, localizedText = {}) {
     return raw && typeof localizedText[raw] === 'string' ? localizedText[raw] : raw;
   };
   return ordered.map(buff => ({buff, template: catalog?.buffs?.[String(buff.templateId)]}))
-    .filter(row => row.template?.hudVisible).slice(0, 8).map(row => {
+    .filter(row => row.template?.hudVisible && hasNativeBuffIcon(row.template)).slice(0, 8).map(row => {
       const name = localize(row.template.szBuffName), description = localize(row.template.szBuffDesc);
       const stackVisible = !!row.template.hudStackCountVisible;
       return {...row, name, description, title: [name, description].filter(Boolean).join('\n'),

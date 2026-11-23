@@ -278,6 +278,17 @@ class MultiplayerGate:
         self.started_room = room['room_id']
         self.conn.settimeout(.02)
 
+    def _map_config(self, mode):
+        """Native room fields for an in-room map change (owner request)."""
+        if (mode not in bot_setup.MODE_MAPS and mode != bot_setup.RANDOM_MODE) or mode.startswith('test'):
+            raise ValueError('Bản đồ này không chọn được trong phòng.')
+        setup = bot_setup.load_setup(self.db)
+        s = clean_state(self.state)
+        s['battle'] = None
+        s['room'] = dict(room_id=0, camp=1, ready=1, room_type=2, map_id=19, mode=3, state=0)
+        bot_setup.configure_room(s, self.db, setup=dict(setup, mode=mode))
+        return {key: s['room'][key] for key in ('map_id', 'mode', 'name', 'room_type')}
+
     def _create(self, payload=None):
         self._refresh_profile()
         setup = bot_setup.load_setup(self.db)
@@ -547,7 +558,8 @@ class MultiplayerGate:
                         self.state.update(ranked_matches.brief(opened, self.profile))
                 self._refresh_profile(freeze=request['action'] == 'rank_queue')
                 bot = self._add_bot(request) if request['action'] == 'add_bot' else None
-                reply = self.hub.command(self.profile, self.generation, request, bot=bot)
+                config = self._map_config(request['mode']) if request['action'] == 'map' else None
+                reply = self.hub.command(self.profile, self.generation, request, bot=bot, config=config)
                 self._send([(REPLY, encode_reply(reply))])
                 self.poll(force=True)
             except (ValueError, KeyError) as exc:

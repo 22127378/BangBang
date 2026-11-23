@@ -13,7 +13,9 @@ import {M82MenuAudio} from './m82_menu_audio.js';
 import {createSelectionExtras} from './m82_selection_extras.js';
 import {flashOutsideLayout,outsideModalScreen} from './m83_flash_layout.js';
 import {FLASH_CURRENCIES,createFlashCharacterChrome,createNativeCurrency,nativeMenuFilters} from './m83_chrome.js';
-import {BATTLE_MAPS as PK_MAPS,isBattleMode as isPKMode,battleMapName as pkMapName} from './m810_modes.js';
+import {BATTLE_MAPS as PK_MAPS,RANDOM_MODE,isBattleMode as isPKMode,battleMapName as pkMapName} from './m810_modes.js';
+import {openMapPicker,paintMapTrigger} from './m81350_map_picker.js';
+import {EventsUI} from './m81352_events_ui.js';
 import {M81314Pve} from './m81314_pve.js';
 import {M81330WorldBoss} from './m81330_worldboss_ui.js';
 import {isWorldBossScene} from './m81330_protocol.js';
@@ -271,6 +273,7 @@ export class M8UI {
       this.loginPassword.disabled=this.loginButton.disabled;return;
     }
     if(this.screen==='lobby')this.updateLobby();
+    if(this.screen==='lobby')this.eventsUI?.update();
     if(this.screen==='hall')this.updateHall();
     if(this.screen==='room')this.updateRoom();
     if(this.screen==='selecting')this.updateSelection();
@@ -298,10 +301,8 @@ export class M8UI {
   buildLobby() {
     this.lobbyKey='';
     this.content.append(this.art('lobby.platform',0,0));
-    const worldBoss=actionButton('',()=>this.navigate('worldboss'),{className:'m81330-worldboss-nav',testId:'m30-nav-worldboss',title:'Boss Thế Giới'});
-    const bossIcon=this.assets.get('zh_CN/gui_summer/controls/main/worldBoss.png');
-    if(bossIcon)worldBoss.append(assetImage(bossIcon,''));
-    worldBoss.append(element('span','Boss Thế Giới'));this.content.append(worldBoss);
+    // M52: Kẻ Hủy Diệt (world boss) and every events-v1 activity live in the top-right event bar.
+    (this.eventsUI??=new EventsUI(this)).mount();
     this.lobbyPortrait=place(actionButton('',()=>this.navigate('garage'),{className:'m83-lobby-avatar',testId:'m83-lobby-avatar',title:'Đổi tank'}),182,153,200,200);this.lobbyPortrait.setAttribute('aria-label','Đổi tank');this.content.append(this.lobbyPortrait);
     this.content.append(this.art('lobby.tankNameBackground',158,96));
     this.lobbyTankName=place(element('h2',null,'m8-lobby-tank-name'),203,97,133,29);this.content.append(this.lobbyTankName);
@@ -341,7 +342,13 @@ export class M8UI {
     place(panel.root,273,40,472,538);shade.append(panel.root);shade.setAttribute('role','dialog');shade.setAttribute('aria-modal','true');shade.setAttribute('aria-label','Tạo đội');
     const title=this.assets.get('hall.title_createroom_t');panel.content.append(place(assetImage(title,''),(472-title.width)/2,19));
     const setup=this.state.play.setup;
-    this.pkMapSelect=selectInput(PK_MAPS.map(map=>({value:map.mode,label:`${map.group} · ${map.name}`})),isPKMode(setup?.mode)?setup.mode:'pk_robo');
+    this.pkMapSelect=selectInput([...PK_MAPS,RANDOM_MODE].map(map=>({value:map.mode,label:`${map.group} · ${map.name}`})),RANDOM_MODE.mode);
+    this.pkMapSelect.hidden=true;
+    // M50: the visible control is a native-styled map picker; the hidden select keeps the value.
+    this.pkMapTrigger=actionButton('',()=>openMapPicker({host:this.content,assets:this.assets,current:this.pkMapSelect.value,includePractice:true,
+      onPick:mode=>{this.pkMapSelect.value=mode;this.pkMapSelect.dispatchEvent(new Event('change',{bubbles:true}));paintMapTrigger(this.pkMapTrigger,this.assets,mode);}}),
+      {className:'m81350-trigger',testId:'m81350-map-trigger'});
+    paintMapTrigger(this.pkMapTrigger,this.assets,this.pkMapSelect.value);
     this.pkMapSelect.dataset.testid='m89-pk-map';
     this.allies=selectInput(Array.from({length:5},(_,i)=>({value:i,label:String(i)})),setup?.allies?.length??4);
     this.enemies=selectInput(Array.from({length:6},(_,i)=>({value:i,label:String(i)})),setup?.enemies?.length??5);
@@ -378,7 +385,8 @@ export class M8UI {
     const levels=element('div',null,'m81337-create-pair'),equipment=element('div',null,'m81337-create-pair');
     levels.append(field('Cấp tank của bot',this.botLevel),field('Quân hàm của bot',this.botMilitary));
     equipment.append(field('Guild: 1 chủ động, 4 bị động',this.botGuild),field('Ngọc đề cử của bot',this.botCrystals));
-    form.append(field('Chế độ và bản đồ',this.pkMapSelect),counts,policies,levels,equipment,modeNote);
+    const mapField=field('Chế độ và bản đồ',this.pkMapTrigger);mapField.append(this.pkMapSelect);
+    form.append(mapField,counts,policies,levels,equipment,modeNote);
     this.createConfirm=actionButton('Tạo phòng',()=>this.run(async()=>{
       const generation=this.client.generation,accountId=this.state.accountId,token=this.screenToken;
       const saved=await this.client.saveBotSetup({mode:this.pkMapSelect.value,allies:Array(Number(this.allies.value)).fill(Number(this.botLevel.value)),
@@ -390,7 +398,7 @@ export class M8UI {
     }),{className:'primary',testId:'m8-create-room'});
     this.createConfirm.style.whiteSpace='nowrap';this.createConfirm.style.fontSize='15px';
     panel.content.append(form,place(this.createConfirm,177,481,118,40));
-    shade.addEventListener('keydown',event=>{if(event.key==='Escape'){event.stopPropagation();close();}});this.content.append(shade);this.pkMapSelect.focus();
+    shade.addEventListener('keydown',event=>{if(event.key==='Escape'){event.stopPropagation();close();}});this.content.append(shade);this.pkMapTrigger.focus();
   }
   updateHall() {return updateNativeHall(this);}
   buildRoom() {
@@ -495,7 +503,7 @@ export class M8UI {
       button.style.backgroundImage=`url("${this.assets.ui.assets[selected?'selection.tileSelected':'selection.tileUnselected'].url}")`;
       const level=Math.max(1,Math.min(11,Math.trunc(Number(tank.level)||1)));
       button.setAttribute('aria-label',`${this.assets.tankName(tank.tankId)} · Lv.${level}`);
-      button.append(this.assets.portraitForTank(tank,{size:96}));
+      button.append(this.assets.portraitForTank(tank,{size:80,className:"m81351-tile-portrait"}));
       // TileTankRenderer: TkLvSimImg, horizontalCenter=0, y=2, above AvatarView.
       const levelArt=this.assets.get(`chrome.tankLevel${level}`);
       if(levelArt)button.append(place(assetImage(levelArt,`Lv.${level}`,'m8135-selection-level'),(96-levelArt.width)/2,2,levelArt.width,levelArt.height));

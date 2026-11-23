@@ -1,0 +1,279 @@
+# Bản dịch tiếng Việt thoại/gợi ý phụ bản (DialogTemplate). Định dạng: nId|nội dung. #n# = xuống dòng.
+206|Đây là quần áo con tin để lại, họ ở ngay gần đây thôi. Các chiến sĩ, hành động ngay!
+213|Dám đến chỗ ta quậy phá, ta sẽ biến các ngươi thành thịt xiên nướng!
+214|Lũ nhóc, xông lên, đánh hội đồng chúng nó!
+215|GOOD, hoàn thành nhiệm vụ!
+216|Phía trước là BOSS của địch rồi, xông lên!
+217|Đội Hải Lang cầu cứu! Các nhà khoa học họ hộ tống đã bị khủng bố bắt đi.
+218|Đây là ảnh con tin, nhiệm vụ của các bạn là giải cứu con tin an toàn và tiêu diệt bọn khủng bố.
+219|Cảm ơn các bạn rất nhiều, những người hùng của tôi~~
+220|Chúng tôi còn đồng đội bị bọn khủng bố bắt đi, mau đi giải cứu họ!
+221|Vượt qua cây cầu phao này là căn cứ của bọn khủng bố, cẩn thận có phục kích.
+222|Trời ơi, cẩn thận con thuyền bên phải!
+223|Nguy hiểm thật, bọn này dám tấn công cảm tử!
+224|Làm tốt lắm! Kẻ địch đừng hòng cản được chúng ta!
+225|Các chiến sĩ dũng cảm! Đội đột kích Hải Lang phụng mệnh đến chi viện.
+226|Kẻ bại trận mà còn dám khiêu khích! Các ngươi đang tự tìm đường chết!!
+227|Khốn kiếp, ta không cam lòng...
+228|Cuối cùng cũng được cứu rồi, cảm ơn các bạn~
+229|Kẻ địch là một đám lính đánh thuê điên cuồng, nghe nói chúng đang chế tạo thứ gì đó nguy hiểm.
+230|Cẩn thận lũ nhện, chúng là phe trung lập. Tránh được thì cố mà tránh!
+231|Cảm ơn các bạn! Cẩn thận lối đi bên phải, có chôn địa lôi đấy!
+232|Nghe nói trong đám lính đánh thuê này có xạ thủ bắn tỉa giỏi ẩn nấp!
+233|Tàu ngầm này còn được trang bị đạn gây choáng, quả nhiên là một lũ điên.
+234|Dù thế nào cũng phải tiến lên, nhất định phải diệt sạch chúng!
+235|Cổng laser rất nguy hiểm, chỉ đi qua được khi chuyển sang màu xanh, hãy tìm công tắc trước.
+236|Nhìn tình hình này, ải tiếp theo chắc chắn rất khó, nhưng tôi tin các bạn!
+239|Muốn xem vũ khí bí mật à, vậy thì để mạng lại đây! Ha ha ha ha!
+240|Cuối cùng cũng kết thúc rồi, không ngờ chúng lại chế tạo ra loại tank đáng sợ như vậy.
+241|May mà các bạn đã tiêu diệt nó, các bạn mới là dũng sĩ thực thụ!
+242|Tài liệu nói khu vực này có rất nhiều nhện, tôi ghét nhện!
+243|Mục tiêu nhiệm vụ lần này là tìm và phá hủy đoàn tàu chở vũ khí của địch!
+244|Canh phòng nghiêm ngặt thế này, đoàn tàu chắc chắn ở gần đây, tiếp tục tiến lên!
+245|Tin tình báo mới nhất, nghe nói gần cây cầu này thường có rất nhiều nhện xuất hiện!
+246|Giao lộ bị chặn rồi, nguy rồi, là bẫy!
+247|Không ổn, một bầy nhện lớn đang kéo tới, mau vào phòng khởi động tháp pháo!
+248|Chú ý, có một con nhện rất rất to đang tiến về phía này!
+249|Phù... cuối cùng cũng hạ được. Bọn này định dùng nhện để tiêu diệt chúng ta!
+251|Đường đi gian nan thế này, xem ra đoàn tàu không chỉ chở vũ khí đơn giản như vậy!
+252|Xem ra đoàn tàu ở ngay phía trước rồi, tập trung tinh thần nào!
+253|Không ngờ bản thân đoàn tàu chính là một kho vũ khí khổng lồ, lần này các bạn lập công lớn rồi!
+254|Ta dụ bao nhiêu nhện tới mà không diệt được các ngươi, vận may cũng tốt thật đấy!
+255|Nhưng vận may của các ngươi hết rồi, giờ ta sẽ tiêu diệt các ngươi!
+256|Dám đến chỗ bọn ta gây sự, chán sống rồi hả! Anh em, xông lên!
+261|Mỏ này trông nguy hiểm quá! Tất cả tập trung cao độ cho ta!
+262|Cứu với! Cứu với!
+272|Cẩn thận, phía trước có tank bom hạt nhân của địch!
+311|Nhiệm vụ lần này là tiêu diệt tank hạng nặng tiền tiêu của địch, đồng thời giải cứu nhà khoa học điên bị bắt cóc. Chúc may mắn, hết!
+312|Này! Cẩn thận cái chân của lão già này, ta còn cần nó để chạy trốn đấy.
+313|Mau cho ta đi nhờ một đoạn, ta là chuyên gia vũ khí nổi tiếng đấy, có cần ta ký tên lên tank của cậu không?
+314|Chú ý kẻ địch đã chặn đường phía trước, dùng bom hẹn giờ phá một lối đi. Ở phía dưới bên trái cây cầu có hòm tiếp tế. Over!
+315|Các anh em, bên trong hỏa lực rất mạnh, có thể dụ kẻ địch ra từng nhóm để tiêu diệt.
+316|Địch tập kích, địch tập kích, báo cho hậu phương kích hoạt địa lôi phòng thủ.
+317|Này bên kia, đều là đi làm thuê cả, đừng liều mạng như thế được không.
+318|Hôm nay xui thật, sao lại tin lời anh Xuân mà trực ca thay hắn chứ.
+321|Vệ tinh cho thấy khu vực này tập trung rất nhiều binh lính, tiến lên tìm tên lửa phòng không của chúng và đánh tê liệt.
+322|Cứu tôi... Tank của cậu sao chật thế, có điều hòa không! Tôi muốn tắm gội cắt tóc, khổ quá đi mất.
+323|Trinh sát trên không phát hiện dưới đất có rất nhiều địa lôi, để tank vô địch đi mở đường.
+324|Phát hiện tín hiệu tên lửa truy đuổi, cẩn thận né tránh.
+331|Vệ tinh cho thấy tàu ngầm và pháo hạm của địch đã xuất kích, gần đó còn có không kích đang tới.
+332|Hãy tìm khoảng trống giữa các loạt bắn của cơ quan để tiến lên!!!
+333|Tình báo cho thấy chiến hạm Vô Úy của địch sắp nhổ neo bỏ chạy, tăng ga, hết tốc lực, tiến lên, Ura!
+334|Hãy cẩn thận không kích và địa lôi! Chúc may mắn!
+335|Vạn pháo cùng bắn, nổ chết lũ ranh con các ngươi, dám so hỏa lực trước pháo hạm vô địch của ta. Hừ hừ.
+341|Alo... alo... chỗ này sóng yếu quá! Ra khỏi vùng phủ sóng rồi. Chúc các bạn may mắn.
+342|Thung lũng này có rất nhiều xạ thủ bắn tỉa ẩn nấp, địa hình ở đây bất lợi cho chúng ta, phải cẩn thận.
+343|Cẩn thận mấy thùng dầu kia, bắn nổ chúng rồi xông lên!!!
+344|Nắm bắt khoảng trống giữa các loạt quét, hạ chiếc trực thăng đáng ghét đó!
+345|Súng máy súng máy, nhắm cho chuẩn mà bắn, lũ khốn này chỉ trang bị súng máy để tăng sức vận chuyển.
+351|Trên đỉnh núi sóng khá tốt, ở đây có 4 xưởng vũ khí phòng thủ rất nghiêm ngặt, lái cẩn thận, đừng rơi xuống vực.
+352|Kẻ địch ở đây diệt một tên lại ra một tên, phải phá hủy xưởng sản xuất vũ khí của chúng mới giành được chiến thắng.
+361|Cuối cùng cũng đến sào huyệt của địch, tiêu diệt hoàn toàn lực lượng cuối cùng của chúng, đừng cho kẻ địch cơ hội thở. Tiến lên!
+362|Đã đến thì đừng hòng đi, thử bảo bối Siêu Vô Địch Kim Cương Tank của ta đi, ha ha! Ngoan một chút, ta sẽ nhẹ tay một chút.
+501|Nhiệm vụ lần này là bằng mọi giá phải giải cứu các nhà khoa học bị người ngoài hành tinh bắt giữ trong trạm không gian!
+502|Điểm dịch chuyển của người ngoài hành tinh, phải phá hủy nhanh, nếu không chúng sẽ kéo ra liên tục!
+503|Hu hu... người ngoài hành tinh lấy chúng tôi làm thí nghiệm, còn lột sạch quần áo chúng tôi, tôi chẳng còn mặt mũi nào gặp ai nữa, hu hu...
+504|Cuối cùng cũng thấy lại ánh mặt trời!!
+505|Theo máy định vị, vẫn còn rất nhiều nhà khoa học bị nhốt ở khu B của trạm không gian!
+506|Đây là khu B, nhất định phải nhanh chóng cứu các nhà khoa học, lũ mọt sách này là kết tinh trí tuệ của nhân loại đấy!
+507|Không phải tôi tự khen, máy dịch chuyển tầm ngắn của trạm không gian này là tiên tiến nhất Trái Đất!
+508|Chạy mau, đây là cái bẫy!
+509|Lũ người ngoài hành tinh này xảo quyệt hơn tưởng tượng nhiều, tiếp theo phải cẩn thận hơn!
+510|Không còn nhiều thời gian, phải nhanh chóng cứu hết các nhà khoa học và rút khỏi trạm không gian này!
+511|Cảm ơn các bạn đã cứu tôi. Bên cạnh là phòng dự trữ, tôi sẽ cung cấp túi máu cho các bạn dọc đường!
+512|Không qua được, phải kích hoạt cơ quan bên trái trước mới mở được cửa!
+513|Lũ sinh vật hạ đẳng các ngươi, đầu hàng là con đường duy nhất, nếu không chỉ có con đường chết!
+514|Làm tốt lắm, đưa các nhà khoa học này về xong, lương của các bạn sẽ tăng gấp đôi!
+515|Liên quân Trái Đất ở hậu phương đã sẵn sàng phản công trạm không gian.
+516|Nhiệm vụ của tiểu đội đột kích là mở các thiết bị dịch chuyển dọc đường, đưa quân Trái Đất sang đây!
+517|Rất tốt, giờ nhập mật mã vào máy tính, mở thiết bị dịch chuyển!
+518|Ha ha, lũ người ngoài hành tinh đầu xanh các ngươi, lại đây chịu chết đi!
+519|Phía trước hết đường rồi, xem ra phải đi hành lang bên ngoài, lên điểm dịch chuyển!
+520|Đến đây, người ngoài hành tinh, xem ta xử lý thế nào............ chết sạch rồi, toát mồ hôi!
+521|Tổng bộ, khu E đã giành lại toàn bộ, giờ tiến tới khu F!
+522|Xông lên, cho lũ người ngoài hành tinh này biết tay!
+523|Tổng bộ, khu F đã dọn sạch... được, đã rõ!
+524|Tổng bộ chỉ thị, thủ lĩnh người ngoài hành tinh đã chạy tới khu H, không được để hắn thoát!
+525|Thủ lĩnh người ngoài hành tinh sẽ đi qua khu này, trước khi hắn đến, chúng ta phải mở thiết bị dịch chuyển ở đây!
+526|Phía trên có ba cơ quan mở, phải kích hoạt hết mới mở được thiết bị dịch chuyển!
+527|Lũ sâu bọ hạ đẳng, dám cản đường ta, để ta dạy các ngươi chữ "chết" trong tiếng ngoài hành tinh viết thế nào!
+528|A... không thể nào, ta lại thua lũ sinh vật hạ đẳng các ngươi............
+529|Tổng bộ, đã giành lại trạm không gian thành công, OVER!
+530|Làm tốt lắm, thiết bị dịch chuyển đã mở, quân đội sẽ được dịch chuyển tới ngay! A, thủ lĩnh người ngoài hành tinh đến rồi...
+594|Lại gần, đặt bom,#n#rồi tránh ra
+595|Nguy hiểm, đợi tia laser dừng rồi hãy đi qua
+596|Lại gần, đặt bom,#n#rồi tránh ra
+597|Phá hủy doanh trại,#n#giảm quân địch xuất hiện
+599|Phá thùng để nhận vật phẩm ẩn
+600|Có biển cảnh báo đầu lâu#n#là có địa lôi, cẩn thận
+601|Có tù nhân vượt ngục, báo động cấp một. Lính đâu, đi bắt chúng về cho ta.
+602|Cẩn thận, kẻ địch đã khởi động cưa máy, tìm cách đừng chạm vào.
+606|Đi mau, kẻ địch sẽ sớm điều đại quân tới vây quét chúng ta.
+607|Đi theo tôi, ở đây có một lối thoát an toàn.
+608|Cậu chắc đây là lối thoát an toàn chứ?
+609|Rõ ràng quá rồi, kẻ địch xung quanh đã chứng minh sự thật là tôi bị mù đường.
+610|Các cậu tìm cách xông tới mép vực phía trước, nội gián của chúng ta đã chuẩn bị dụng cụ thoát thân ở đó.
+611|Cùng đến đây nào!! Tham gia lễ hội pháo hoa của ta!!
+612|Xem ra... những chiếc dù dưới đất chính là dụng cụ thoát thân của chúng ta. Tất cả chuẩn bị! Nhảy!
+613|Hạ cánh an toàn!! Chúng ta thế mà hạ cánh an toàn được!!!
+614|Ờ... ý tôi là, chúng ta đã hạ cánh an toàn rồi.
+615|Băng qua khu rừng phía trước, ở bờ sông sẽ có ca nô đến đón chúng ta. Đi đường cẩn thận, chắc chắn có phục kích.
+616|Các bạn cuối cùng cũng đến, mau lên thuyền rời khỏi đây.
+617|Không ổn! Pháo hạm của địch đuổi tới rồi, mau chặn chúng lại, bảo vệ ca nô.
+618|Nhân lúc kẻ địch chưa đuổi tới, chúng ta đi mau!
+619|Phá hàng rào thép gai, trốn khỏi nhà tù
+620|Tránh cưa máy
+624|Nhiệm vụ thâm nhập lần này đã hoàn thành, giờ phải tìm cách thoát ra ngoài.
+701|Các Hiệp sĩ Jedi! Nhiệm vụ lần này của chúng ta là giải cứu Nữ hoàng Amidala.
+702|Kẻ địch đã chiếm toàn bộ hoàng cung, lần hành động này nhất định phải bảo đảm an toàn cho Nữ hoàng. Xuất phát!
+703|Chú ý! Đó là phi thuyền vận binh của địch, nếu không phá hủy nó, viện binh địch sẽ kéo đến không ngừng!
+704|Nguy rồi, Nữ hoàng bị vây trong cảng hàng không, tình hình nguy cấp, Hiệp sĩ Jedi! Hành động!
+705|Các chiến binh dũng cảm, xin nhận lời cảm ơn chân thành của ta.
+706|Cái động cơ chết tiệt này, luôn trục trặc vào lúc quan trọng. Chúng ta đã hạ cánh khẩn cấp xuống hành tinh Tatooine.
+707|Lúc này đang là mùa đua xe của hành tinh Tatooine, trong kho của họ chắc chắn có động cơ đời mới nhất.
+708|Các Hiệp sĩ Jedi, đi "mượn" cái động cơ đó ra đây.
+709|Cẩn thận! Đường đua phía trước bắt đầu thi đấu rồi, tránh xa mấy chiếc xe bay!
+710|Đúng rồi, đây chính là động cơ "Quầng Sáng" đời mới nhất, lắp nó lên phi thuyền, chúng ta tiếp tục hành trình.
+711|Đây là hành tinh Naboo, chúng ta nhận được tin hành tinh này đã bị quân phản loạn kiểm soát.
+712|Nghe nói thủ lĩnh quân phản loạn là một chiến binh Sith, một Hiệp sĩ Jedi sa ngã. Cực kỳ nguy hiểm!
+713|Hắn thông thạo mọi cách chiến đấu của Hiệp sĩ Jedi, các bạn nhất định phải cẩn thận.
+714|Đây là vệ binh của Nữ hoàng, họ vẫn còn sống! Mau theo họ! Tiến về sào huyệt của địch!
+715|Đây là bẫy laser, cần các bạn phối hợp mới qua được, mọi việc cẩn thận.
+716|Ồ? Khách mới, chào mừng các ngươi đến với thiên đường bóng tối.
+717|Lũ Jedi giả tạo, Thần Lực yếu ớt! Để ta cho các ngươi biết thế nào là sức mạnh!
+718|Đây là sức mạnh tự nhiên?! Không thể nào! Tương lai ta nhìn thấy là một màu... tăm tối.
+801|Tên Bá tước Dooku đáng ghét! Hắn dám giam giữ đội chấp pháp của Liên bang Ngân Hà! Chắc chắn có vấn đề.
+802|Chúng ta phải thoát khỏi đây, vạch trần âm mưu của Bá tước Dooku!
+803|Tôi nghe thấy có người kêu cứu ở cửa bên kia! Mau mở cơ quan cứu anh ta ra.
+804|Cảm ơn các bạn đã cứu tôi. Theo tôi, lối ra ở bên này.
+805|Không! Đó là đao phủ! Chúng ta chết chắc rồi!!
+806|Mau xem tài liệu này, căn cứ bí mật của Bá tước Dooku lại ở dưới đáy biển! Chúng ta đi trinh sát ngay.
+807|Căn cứ dưới đáy biển quy mô lớn thế này, Bá tước Dooku chắc chắn đã mưu tính từ lâu, phải hết sức cẩn thận.
+808|Trời ơi! Những nhà máy đó đang chế tạo người nhân bản! Lập tức phá hủy nhà máy, ngăn chặn chúng!
+809|Ồ! Chẳng lẽ con nhện khổng lồ này chính là vũ khí bí mật của Bá tước?
+810|Bá tước lên phi thuyền chạy trốn rồi! Mau đuổi theo!
+811|Đây là đâu? Tôi cảm nhận được một luồng khí bất thường.
+812|Phía trước có hai lớp cổng lớn, mau tới hai thung lũng bên cạnh khởi động cơ quan mở cổng.
+813|Các người là người của Liên bang?! Rời khỏi đây ngay! Thí nghiệm nhân bản đã xảy ra sự cố...
+814|Không... Không!! Các ngươi đều phải chết!
+815|Cái chết là sự giải thoát của chúng ta...
+816|Chuyện gì thế này? Những người này đều biến thành quái vật vô thức! Lập tức báo tin này cho Liên bang!
+817|Sau cánh cổng lớn kia còn có chiến hữu của tôi bị giam giữ! Xin hãy cứu họ!
+818|Nhìn kìa! Đại sư Yoda cũng đến rồi! Mau mở cổng dịch chuyển bên trái, ngài ấy sẽ giúp bạn rất nhiều.
+819|Thần Lực của ta đang biến mất, đánh nhanh thắng nhanh, ta sẽ giúp ngươi xóa hiệu ứng của Thần Lực tà ác!
+820|Thành phố này đã bị virus ô nhiễm, chúng ta cần tìm ra nguồn lây nhiễm.
+821|Đội đặc chủng Hắc Ma phụng mệnh càn quét xác sống, cùng chiến đấu nào!
+822|Trời ơi! Trong tòa nhà này có vô số quái vật! Các bạn đi mau, tôi yểm hộ!
+823|Cẩn thận! Phía trước là bãi mìn! Còn có túi chất nhầy kịch độc mà đội thám hiểm dùng để đối phó quái vật!
+824|Trời đất, chúng lại bật bẫy cưa máy, khi đi qua nhất định phải canh đúng khoảng trống.
+825|Thịt... tươi... thịt...
+826|Xem ra đây là lối vào căn cứ ngầm, mau đi điều tra.
+827|Không ngờ chúng lại xây một căn cứ ngầm khổng lồ như vậy.
+828|Nhìn kìa! Những nhà nghiên cứu đó đều biến thành quái vật rồi!
+829|Xé... xé các ngươi... thành từng mảnh!
+830|Cẩn thận! Ở đây còn có Licker!
+831|Lưới điện laser phía trước là hệ thống phòng thủ tối thượng, nhất định phải cẩn thận.
+832|Phát hiện kẻ xâm nhập, khởi động kế hoạch thanh trừng cuối cùng.
+833|Năng lượng... cạn kiệt...
+834|1 giờ nữa bom hạt nhân sẽ phá hủy thành phố này! Chúng ta rút ngay!
+835|Quỷ tha ma bắt! Chiến đấu cơ đang ném bom con đường phía trước.
+836|Xin lỗi, mệnh lệnh của chúng tôi là tiêu diệt mọi thứ biết cử động!
+837|Trong tòa thị chính có cơ quan mở cổng lớn!
+838|Chú ý! Phía trước là căn cứ của đám lính điên đó!
+839|Nhìn kìa! Kia chính là lối ra!
+840|Phát hiện mục tiêu, khởi động kế hoạch Thiên Thần Báo Thù! Các ngươi đều phải chết!
+841|Bom hạt nhân đang bay tới đây, thành phố này sắp bị hủy diệt rồi, chúng ta đi mau!
+842|Nhìn xem, đây là Las Vegas, một trong những thành phố phồn hoa nhất Trái Đất!
+843|Nhưng giờ nó đã biến thành một đống đổ nát, tất cả là do con virus chết tiệt đó.
+844|Nghe nói trên đảo Bình Minh vẫn còn người sống sót đang chờ cứu viện, chúng ta nhất định phải đi giải cứu họ.
+845|Cẩn thận! Sâu cát đẩy tảng đá lớn tới rồi! Mau phá hủy tảng đá, nó sẽ nghiền bạn thành bột.
+846|Kẻ địch xuất hiện phía sau! Nghênh chiến!
+847|Ồ! Đó là tượng Nữ thần Tự do phiên bản nhái.
+848|Cẩn thận con sâu cát biến dị đó!
+849|Tiếp tục tiến lên, chúng ta sắp tới bờ biển rồi.
+850|Không ổn! Con đường phía đông bị vách núi chặn rồi, chúng ta vòng đường phía nam mà tiến!
+851|Tôi nhớ phía trước là một căn cứ quân sự, hy vọng chúng ta có thể tìm được thuốc nổ để phá vách núi.
+852|Con đường phía bắc cũng bị chặn kín, chỉ còn cách vào đống đổ nát thử vận may.
+853|Nhìn kìa! Đó là nhà máy sản xuất xe nổ tự hành! Chúng ta có thể dùng xe nổ để phá vách núi.
+854|Xe nổ bắt đầu được sản xuất! Trên đường đi các bạn nhất định phải bảo đảm an toàn cho xe nổ.
+855|Rất tốt! Đã phá được một vách núi! Quay lại lấy thêm một xe nổ nữa!
+856|Con đường ra bờ biển cuối cùng đã thông, mau xuất phát tới đảo Bình Minh.
+857|Quái vật gì thế kia!! Chạy mau, chúng ta sẽ bị ăn thịt mất!
+858|Cuối cùng cũng tới đảo Bình Minh, nhanh lên! Có đội quân xác sống đang tấn công đảo Bình Minh.
+859|Chuẩn bị tác chiến, một đợt xác sống lớn đang tiến về phía này.
+860|Đi vào lô cốt đầu cầu phía trước có thể nhận chi viện của quân bạn. Mỗi gầm cầu khác nhau sẽ cho trợ giúp khác nhau.
+861|Chú ý! Mỗi hàng lô cốt đối diện nhau bạn chỉ được chọn một, chọn trùng sẽ không có tác dụng.
+862|Quái vật đáng sợ quá! Cẩn thận tia sáng từ mắt và đòn cào của nó!
+863|Nhờ có sự giúp đỡ của bạn, chúng ta đã giữ được đảo Bình Minh.
+864|Tập đoàn Umbrella đáng ghét! Chúng dám dùng bom hạt nhân phá hủy thành phố Raccoon!
+865|Tiến lên hết tốc lực! Xông vào căn cứ ngầm của chúng, tìm ra nguồn gốc bùng phát virus.
+866|Cẩn thận! Bị nhiễm xạ hạt nhân, những quái vật này đã trở nên mạnh hơn.
+867|Trời ơi, chắc chắn chúng ta đã quấy động tổ muỗi khổng lồ! Tiến hết tốc lực, đừng ham đánh!
+868|Xem chuyện tốt chúng làm kìa! Đến cả tượng nữ thần cũng bị phá hủy!
+869|Nhìn kìa! Màu sắc của con muỗi khổng lồ kia rất lạ, tuyệt đối đừng khinh địch!
+870|Nơi tôi ghét nhất chính là căn cứ ngầm!
+871|Đi lên trên, đó là phòng nghiên cứu của căn cứ, bên trong chắc chắn có manh mối về virus.
+872|Đừng lo, đó là viện binh của chúng ta, những người mới tiến hóa nhờ virus.
+873|Trời đất, nhìn những phòng giam đông lạnh kia kìa! Bên trong toàn là nạn nhân bị virus khống chế.
+874|Đây chính là phòng nghiên cứu của căn cứ, mau xem có tài liệu gì!
+875|Mau bắt lấy hắn! Hắn chính là kẻ đứng đầu căn cứ, tiến sĩ tà ác Wesker!
+876|Đáng ghét, lại để Wesker chạy thoát!
+877|Nhưng không sao, đây là tầng đáy của căn cứ, hắn không còn đường thoát!
+878|Lại còn bố trí nhiều khung cảnh khác nhau dưới lòng đất! Rốt cuộc chúng muốn làm gì!
+879|Cẩn thận! Mấy con xác sống kia có gì đó khác lạ! Chúng giống như quân đội Quốc xã!
+880|Trời đất, phía trước là bầy xác sống dày đặc! Vượt qua đây là tới phòng tài liệu cuối cùng!
+881|Cố lên! Chúng ta sắp biết được bí mật cuối cùng của virus xác sống rồi!
+882|Trời ơi! Đó là Wesker! Hắn lại dùng virus G khiến bản thân biến dị!
+883|Tránh ra mau! Các bạn không phải đối thủ của hắn!!
+884|Không ngờ ở đây còn có kho bảo hiểm bí mật, mẫu virus chắc chắn ở bên trong.
+885|Cổng lớn phía trên không mở được, sang phòng bên cạnh tìm xem có công tắc mở cổng không.
+886|Lại là nhà kho mê cung, cẩn thận! Gần đây chắc chắn có bẫy.
+887|Trời ơi! Mê cung này đầy cơ quan, cẩn thận cưa máy dưới đất và bẫy dịch chuyển cạnh tường.
+888|Cố lên!! Vượt qua cái bẫy này là chúng ta ra khỏi mê cung rồi!
+889|Nhìn kìa!! Phía trước là tủ lạnh chứa virus! Mau giết lũ quái vật này, đừng để chúng phát tán virus!
+900|Cẩn thận! Đó là quái vật biến dị virus A! Tránh ra mau!
+901|Cuối cùng cũng thoát khỏi thành phố đáng sợ đó rồi!
+902|Đừng lơ là cảnh giác! Phía trước có thể có địch phục kích!
+903|Đạn của chúng ta không thể phá hủy thể sinh hóa này! Sang thung lũng bên cạnh tìm manh mối
+904|Hình như có người bị mắc kẹt bên trong! Mau tiêu diệt kẻ địch, cứu cô ấy ra!
+905|Nhìn kìa! Cô ấy là Nữ thần Báo thù Alice! Cô ấy có thể dùng sức mạnh thần kỳ để mở lối đi!
+906|Không ổn! Con đường phía trước rất nguy hiểm! Nhất định phải bảo vệ an toàn cho Alice!
+907|Tôi có một linh cảm chẳng lành...
+908|Thể biến dị Tà Nhãn! Cẩn thận đòn gai đất đáng sợ của nó!
+3201|Nhiệm vụ lần này là hộ tống Tổng thống Liên bang Tự do đến đàm phán với bọn khủng bố.
+3202|Có tình báo cho thấy bọn khủng bố định bắt cóc Tổng thống để uy hiếp Liên bang Tự do.
+3203|Nguy rồi! Con đường tới sân bay đã bị địch chiếm! Nạp đạn, chuẩn bị chiến đấu!
+3204|Chú ý, máy dò kim loại phát hiện phía trước có rất nhiều địa lôi.
+3205|Trời ơi! Lũ điên này lại dùng cả tank hạt nhân!
+3206|Cẩn thận, chuyên cơ của Tổng thống đã bị bọn khủng bố chiếm!
+3207|Kiểm soát hỏa lực, nhất định phải bảo đảm an toàn cho Tổng thống!
+3208|Đáng ghét! Chỉ chậm một chút thôi, Tổng thống đã bị chúng bắt đi.
+3209|Đội đột kích Sói Cô Độc! Lập tức hành động, truy kích kẻ địch!
+3210|Không ngờ bọn khủng bố đã sớm chiếm nhà ga xe lửa.
+3211|Xem ra chúng đã mưu tính từ lâu, chờ đợi chúng ta sẽ là một trận khổ chiến.
+3212|Cẩn thận! Tôi nghe thấy tiếng cánh quạt trực thăng!
+3213|Nhìn kìa! Ở đây có biển cảnh báo nguy hiểm, phía trước là bãi mìn! Nhất định phải cẩn thận.
+3214|Lũ tép riu! Có ta trấn giữ ở đây, các ngươi đừng hòng đi qua!
+3215|Vũ khí do lũ khủng bố này chế tạo lại có hỏa lực mạnh đến vậy.
+3216|Đây là đám lính tạp chúng để lại cản hậu, chúng ta tiếp tục tiến lên, nhất định phải cứu Tổng thống.
+3217|Theo dấu vết để lại dọc đường, chúng chắc chắn đã đưa Tổng thống lên chiến hạm này.
+3218|Đây sẽ là cơ hội cuối cùng để giải cứu Tổng thống! Chỉ được thành công, không được thất bại!
+3219|Kẻ địch đặt chướng ngại vật phía trước, may mà chúng ta đã sớm cử lính trinh sát.
+3220|Tiêu diệt tháp pháo tên lửa này, phát tín hiệu cho lính trinh sát mở chướng ngại vật.
+3221|Đây là chướng ngại điện từ! Các bạn cần phối hợp với nhau mới qua được.
+3222|Trong những chiếc thùng này có Hồng Tinh xuyên giáp, các bạn cần có nó mới phá được khối sắt.
+3223|Cẩn thận, trong những viên gạch ở giữa có gắn thiết bị báo động, nếu phá vỡ sẽ dẫn kẻ địch tới.
+3224|Ha ha ha, Tổng thống của các ngươi đang ở trên máy bay của ta!
+3225|Muốn cứu người rất đơn giản, chỉ cần đánh bại ta! Có điều, chuyện đó là không thể!
+3226|Thật vô lý! Ta mới là kẻ mạnh nhất thế giới này!
+3227|Vạn tuế! Ngài Tổng thống đã được giải cứu an toàn, các bạn xứng danh là thành viên của Bầy Sói Tank.
+6011|Mẫu virus sinh hóa ngoài hành tinh vừa bị một đám lính đánh thuê không rõ lai lịch lấy khỏi bệnh viện, đuổi theo giành lại mẫu!
+6012|Dùng xe chặn đường cho ta, để lại vài người chặn đánh, tìm cách khiến chúng bị người nhiễm bệnh bao vây.
+6013|Tin tốt là phía trước không còn xe chắn đường, tin xấu là có một bầy chó nhiễm bệnh đang lao về phía các bạn.
+6014|Tin xấu hơn là phía sau có một con chó nhiễm bệnh to hơn đang tới.
+6021|Phân tích tình báo, lính đánh thuê đã tới sân bay, tìm cách băng qua siêu thị để rút ngắn quãng đường.
+6022|Giết bảo vệ lấy được điều khiển từ xa, có thể hạ các cột chắn xe ở bãi đỗ, từ bãi đỗ vào siêu thị.
+6023|Phía trước có một gã cuồng lái xe nâng, hạ hắn rồi cướp xe nâng là có thể dời chướng ngại ở lối ra.
+6031|Bên ngoài sân bay có rất nhiều người nhiễm bệnh, đồng thời cẩn thận lính đánh thuê chắc chắn có phục kích.
+6032|Máy bay đón lính đánh thuê đã tới, xông vào giành lại mẫu virus.
+6033|Các ngươi đến muộn rồi, virus đã được gửi tới Viện nghiên cứu Vực Sâu, các ngươi không tìm được nơi đó đâu.

@@ -1,7 +1,8 @@
 import {buildRankedPanel} from './m813_ranked.js';
 import {element,assetImage,textInput,setText} from './m8_ui_helpers.js';
 import {createNativePanel} from './m81_native_panel.js';
-import {isBattleMap as isPKMap,isBattleMode as isPKMode,battleMapName as pkMapName} from './m810_modes.js';
+import {isBattleMap as isPKMap,isBattleMode as isPKMode,battleMapName as pkMapName,BATTLE_MAPS,RANDOM_MODE} from './m810_modes.js';
+import {openMapPicker} from './m81350_map_picker.js';
 import {ROOM_SIDEBAR_PLAYER_LAYOUT as SIDEBAR,roomOrnamentRect,roomNamePresentation,styleRoomPlayerName} from './m81330_room_layout.js';
 import {sharedWaitingRoom,roomPerson,roomCanStart,botAIName,roomAction,createRoomsOnlineList,createRoomPolicies} from './m81337_rooms_ui.js';
 
@@ -265,6 +266,17 @@ export function buildNativeRoom(ui){
   ui.content.append(ui.roomPolicies.root,ui.roomCount);
   ui.roomCards=at(element('section',null,'m84-room-roster'),0,0,808,399);ui.roomCards.setAttribute('aria-label','Đội hình hai phe');ui.content.append(ui.roomCards);
   ui.roomMap=at(assetImage(ui.assets.m3.maps[String(ui.state?.flow?.mapId)]?.preview,mapName(ui.state?.flow?.mapId)),509,433,168,100);ui.content.append(ui.roomMap,art(ui,'startgame_background_t',498,424));
+  // Owner-only map choice for a shared waiting room (rooms-v1 'map'): the
+  // preview itself opens the native-styled picker panel.
+  ui.roomMapChange=at(element('button',null,'m81350-room-change'),507,431,172,104);
+  ui.roomMapChange.type='button';ui.roomMapChange.dataset.testid='m81350-room-map';
+  ui.roomMapChange.setAttribute('aria-label','Đổi bản đồ của phòng');ui.roomMapChange.title='Chủ phòng bấm để chọn bản đồ';
+  ui.roomMapChange.append(element('span','Đổi bản đồ'));ui.roomMapChange.style.zIndex='3';
+  ui.roomMapChange.addEventListener('click',()=>{
+    const current=BATTLE_MAPS.find(row=>row.mapId===Number(ui.state?.flow?.mapId)&&!row.mode.startsWith('test'))?.mode;
+    openMapPicker({host:ui.content,assets:ui.assets,current,title:'Đổi bản đồ phòng',
+      onPick:mode=>ui.run(()=>ui.client.setRoomMap(mode))});});
+  ui.content.append(ui.roomMapChange);
   ui.readyButton=button(ui,'ready_button_t','Sẵn sàng',()=>ui.run(()=>{const self=ui.state.flow.roster.find(c=>c.accountId===ui.state.accountId);return ui.client.setReady(!self?.ready);}),688,440,{testId:'m8-ready'});
   ui.startButton=button(ui,'startgame_button_t','Vào game',()=>ui.run(()=>ui.client.startMatch()),688,440,{testId:'m8-start'});
   ui.ownerCancel=button(ui,'button_2_s_blue','Hủy sẵn sàng',()=>ui.run(()=>ui.client.setReady(false)),687,528,{testId:'m81-owner-cancel-ready'});
@@ -282,6 +294,10 @@ export function updateNativeRoom(ui){
   const preview=ui.assets.m3.maps[String(s.flow.mapId)]?.preview;
   if(preview&&ui.roomMap.getAttribute('src')!==preview.url)ui.roomMap.src=preview.url;
   ui.roomMap.alt=mapName(s.flow.mapId);
+  if(ui.roomMapChange){
+    const canPick=!!managed&&owner&&!managed.ranked&&managed.phase==='waiting'&&typeof ui.client.setRoomMap==='function';
+    ui.roomMapChange.hidden=!canPick;ui.roomMapChange.disabled=busy||!canPick;
+  }
   for(const camp of [1,2])for(let slot=0;slot<5;slot++){
     const seat=managed?.seats.find(row=>row.slot===(camp-1)*5+slot);
     const person=managed?roomPerson(s,seat):roster.filter(c=>c.camp===camp)[slot],key=camp+':'+slot;

@@ -68,6 +68,7 @@ def schedule(arena, rec, now):
 
 def scripts(arena, script, now):
     packets = []
+    from pve_events import run as presentation;packets+=presentation(arena,script,now)
     for kind, arg, _, _ in script:
         if kind == 4:
             packets += remove_objects(arena, (arg,))

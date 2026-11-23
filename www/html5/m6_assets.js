@@ -7,7 +7,8 @@ import {loadPveCatalog,mergePveCatalog,companionSceneManifests} from './m81314_a
 import {loadM81319Tanks,mergeM81319Tanks} from './m81319_tanks.js';
 import {loadWorldBossCatalog,mergeWorldBossCatalog} from './m81330_assets.js';
 import {isWorldBossScene,WORLD_BOSS_MAP} from './m81330_protocol.js';
-import {loadM81331Locale,mergeM81331BattleLocale} from './m81331_locale.js';
+import {loadM81331Locale,mergeM81331BattleLocale,translateM81331Remaining} from './m81331_locale.js';
+import {mergeM81349BuffIcons} from './m81349_buff_icons.js';
 import {loadM81333Skins,mergeM81333BattleSkins} from './m81333_skins.js';
 import {loadM81333LacSkin,mergeM81333LacBattle} from './m81333_lac_skin.js';
 import {loadM81334Skins,mergeM81334Battle} from './m81334_skins.js';
@@ -234,6 +235,8 @@ export class M6Assets extends BattleAssets {
         }
         if(pve)await loadLocalPveSupport(catalog,{
           'm6_asset_catalog.json':sha256,'m81314_assets_catalog.json':pve.sha256});
+        translateM81331Remaining(catalog,await loadM81331Locale(undefined,{refresh}));
+        await mergeM81349BuffIcons(catalog,{refresh});
         Object.defineProperty(catalog, 'm6Hydrated', {value: true});
         if (generation === this.catalogGeneration) {
           this.catalog = catalog; this.catalogSha256 = sha256; this.catalogBytes = bytes.byteLength;

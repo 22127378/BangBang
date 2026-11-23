@@ -179,10 +179,10 @@
       "name": "Iron Man",
       "description": "Trang bị phòng ngự, trọng hỏa lực",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+        "url": "/rez/zh_CN/avatar/300/11f7d6344454131a7a4e48e47848b8ad.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "c1c6e557ed89a798e779e7cf10c77ccfedcb6da97571933094989c062c577792"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -212,10 +212,10 @@
       "name": "Panda",
       "description": "Dùng tái sinh năng lượng",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/a542620ecf860c851a2b2a98ec444955.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "ea0189e9f213001061737d2b8e51a47c22a74375bafe7d02537fe95f6e100b64"
+        "url": "/rez/zh_CN/avatar/300/c5d6e8095dc2209fb2a055a2c40b1482.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "12cb1016b4e9a1b34b5a8c1823e9cc4d07f37aaa2abb58cc9b4c1655124b577c"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -245,10 +245,10 @@
       "name": "Spider Man",
       "description": "Dùng khả năng tự thay thế của bản thân làm cách tấn công",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/e9c7388ba12e286a7d369d12ce211ed3.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "65658f59d9c8cf0b66798213e2d2398d01eac15f17f86d4684a288289f1304da"
+        "url": "/rez/zh_CN/avatar/300/34e90632dbc1135159b4c1e489070d8b.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "e76fc547d2c06d996833b9094c3e5ed3f7964a7f1da26a6343d6a44d1a1e08a1"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -272,10 +272,10 @@
       "name": "Ghost Rider",
       "description": "Sứ giả địa ngục, khắc tinh của Thiên Thần",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/ec6fec48a04d72e477e58a78243a654a.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "be572bdedc8663e63dcffedecc06770f3e1061eaf7fd37beca1a139e406e285d"
+        "url": "/rez/zh_CN/avatar/300/3b28c8241eade615202356974617b93d.png",
+        "width": 300,
+        "height": 300,
+        "sha256": "41989890c5ca8df4ddfed551043439e3d401e8326c9dcf1ff1ac93e2596505aa"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -299,10 +299,10 @@
       "name": "Hồ Lô",
       "description": "Quái Hồ Lô, aaaa",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/83cadfdf73f533e59dfc6d498acc76d8.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "acef0633b8783ffbe3a5e5d3848b5565e30bdb93199513baf1dc0b25446dd525"
+        "url": "/rez/zh_CN/avatar/300/b9577394c2a76ad4cb6a40dcc414ac99.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "03021fc1b4c88b77884b522173ec3c0527011361ebcd545bbbab5e24742eaeba"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -326,10 +326,10 @@
       "name": "Ngộ Không",
       "description": "Nón và gậy, nhảy điệu nhảy đồng quê",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/28e31a6691b93dab1afad21387068ffd.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "ce9fb260517812d6a62025a6baaa4bb919c9087b387f1e00d084d55a4e77256b"
+        "url": "/rez/zh_CN/avatar/300/0a9967cdb56945de178faceedd739d88.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "362dfb5bfb1515b5f7cca98378e80bd0b0c1e20cf8d35fb743b1d2d3420210e6"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -353,10 +353,10 @@
       "name": "Dark Knight",
       "description": "Ẩn thân trong bóng tối, tuân thủ quy tắc chính nghĩa",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/02ca8c64402053f1f7430f26be17aabd.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "df76544fa9da31166019aa3f33b5ebd28ae44725f414a98d371dcb59109a9bdc"
+        "url": "/rez/zh_CN/avatar/300/6a2f4a9421e6a7681e942e94f37a70e2.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "38ed588916cdf7c981d0fc67d385ab58b3b08fe8f7653835bc614c7354b93bac"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -380,10 +380,10 @@
       "name": "Pegasus",
       "description": "Chiến sĩ chứa thuộc tính kim loại hiếm",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/059fa45f9d327c37709332338fc1a907.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "29822c22185ed21578f9740adacc6f4a1adc34411e6ffd8c2d7563986ce9d194"
+        "url": "/rez/zh_CN/avatar/300/5f8aeec4f1dbdccccead4dcba73f15ba.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "a34ee0c31a56d2f281b62a0e3d4b49e1f0a1952bd73eff87b8dc641f81c66e29"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -407,10 +407,10 @@
       "name": "Pea Shooter",
       "description": "Thực vật chứa sức phá hoại",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/af10a3ac1529fd5cf8751c4e9e029d25.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "27b4e8b786363aa0aa811627da3e9bf47110bdaf83fffc19718219cbad649bc1"
+        "url": "/rez/zh_CN/avatar/300/1c5d360fa415c4c4f44727371cfb6441.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "cd888483e504c04f5c01970a73ee1eebf7e1f45d006940cfa402ddf98d384669"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -434,10 +434,10 @@
       "name": "Hulk",
       "description": "Quái vật tạo từ cơ bắp",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/e2a533b71da160239622186d9228fd45.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "fcce89043ae52eb01bf5cd199e7fe305b19fc9baaa49d8bc0248584c7e68ac20"
+        "url": "/rez/zh_CN/avatar/300/5f250ba2895380a1e43ebda73211daa4.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "24a6666e60b9caeab0a8a4efa9dd7a09084367bd2137c9ef51aba7d8cae43077"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -461,10 +461,10 @@
       "name": "Teddy Bear",
       "description": "最新仿生科技，完全隐藏机械的痕迹。",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/c700d069824dfe1910e931f1fa4ab257.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "8aa932aa1ee9467b3e5dfc9b866df09175b0b83e6350e80cd415aaec4c090eed"
+        "url": "/rez/zh_CN/avatar/a455a42bcc33a7b43dc239e13646ab6a.png",
+        "width": 200,
+        "height": 200,
+        "sha256": "c15e0332d2420d58ed4b5fc3c98d156b9e0a7f04e528ed82c8b07af1c91d91db"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -488,10 +488,10 @@
       "name": "Captain",
       "description": "Nhân vật linh hồn trên chiến trường",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/a1a350944a38fda3cb6ed9e9adcd33e9.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "26f53b97eb891727779d6a1c18e7795cf27becd841a5f6f5b7d0fc1b4d59fded"
+        "url": "/rez/zh_CN/avatar/300/e6c733b1c6abf9d16b8756420edaa9bd.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "d6925299ce379db169af09b8738967f6d9c4304f45a206e5919e7cd4b0df4396"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -515,10 +515,10 @@
       "name": "Gundam",
       "description": "Tăng lực sát thương đến mức tối đa",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/3e490e27cde36ad677336ce024c0aa87.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "47c3e28a943fbb29652fcf4188e04da791bc7f2f4889a07bcff43cfd4eace6a6"
+        "url": "/rez/zh_CN/avatar/300/5cbf90fa0326c92f3293de9722507d11.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "0d2448c624e1c114b32a211c1e6317b23cf33c67c3418a78afc538f5b989bedf"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -542,10 +542,10 @@
       "name": "Chopper",
       "description": "Đối tượng trị liệu trên chiến trường",
       "icon": {
-        "url": "/rez/zh_CN/avatar/micro/99588001120c47c3dcc3f4daf8c3de48.png",
-        "width": 24,
-        "height": 24,
-        "sha256": "4de845f80dfc0583e064e008b85547d247ae940a02ab4525fbe35cbb4d0e39e1"
+        "url": "/rez/zh_CN/avatar/300/0c7cf1737c31398ee4638ded7f439aa6.png",
+        "width": 400,
+        "height": 400,
+        "sha256": "9e0313f0497d26b5faa2def4f8f565dcb6fdbff689ad6411f026d075234b9783"
       },
       "containerType": 0,
       "maxCount": 1,
@@ -9506,5 +9506,5 @@
       "nativeType": 27
     }
   },
-  "revision": "dc39dc77190e11116b44d482805fe5f9813478c6f0a6ea6210b8ab8127b2001e"
+  "revision": "26345141dc695a3f2e4e3902313ad4eed1184d453cf1bc930738ac2019c537bc"
 }

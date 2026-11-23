@@ -317,6 +317,7 @@ export class LobbyConnection {
 
   async recover(error) {
     if (this.state.phase !== 'ready') return;
+    console.warn('[net] connection lost, reconnecting:', error?.message || error);
     this.phase('reconnecting', 'Kết nối bị gián đoạn. Đang thử lại…');
     let generation = ++this.generation;
     await this.closeChannels();

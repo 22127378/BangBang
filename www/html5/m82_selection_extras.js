@@ -66,7 +66,9 @@ class SelectionExtras {
     select.dataset.testid='selection-crystal-board';select.dataset.selectionExtrasFocus='crystal';select.disabled=disabled||!model.tank||!model.boards.length;
     select.addEventListener('change',()=>{if(!current())return;const boardId=Number(select.value),tankUuid=model.tank?.uuid;this.mutate(()=>this.client.setSelectionCrystal(boardId,tankUuid));});content.push(at(select,SELECTION_EXTRAS_GEOMETRY.crystal));
     const open=()=>{if(!current()||disabled||!model.guildOpen)return;this.open=!this.open;this.render();};
-    const skill=actionButton('',open,{disabled:disabled||!model.guildOpen,className:'m82-selection-guild-icon',testId:'selection-guild-current'});
+    const skill=actionButton('',open,{className:'m82-selection-guild-icon',testId:'selection-guild-current'});
+    // Not the disabled attribute: Chrome sends no hover to disabled buttons, so the info tip could never open.
+    if(disabled||!model.guildOpen)skill.setAttribute('aria-disabled','true');this.tip(skill,model.guildOpen?model.current:null,!model.guildOpen?'Tham gia Guild và mở ô kỹ năng chủ động để sử dụng.':'');skill.removeAttribute('title');
     skill.dataset.selectionExtrasFocus='guild';skill.setAttribute('aria-label',!model.guildOpen?'Kỹ năng Guild chưa mở':model.current?nativeText(model.current.name):'Kỹ năng Guild');skill.title=!model.guildOpen?'Tham gia Guild và mở ô kỹ năng chủ động để sử dụng':model.current?`${nativeText(model.current.name)} · Cấp ${model.current.nLevel}`:'Chọn kỹ năng Guild';
     if(model.current?.icon)skill.append(assetImage(model.current.icon));
     if(!model.guildOpen){const locked=this.picture('zh_CN/gui_summer/controls/public/locked.png',[10,5]);if(locked)skill.append(locked);else skill.append(element('span','🔒'));}
@@ -79,11 +81,26 @@ class SelectionExtras {
       const frame=createNativePanel({assets:this.assets.panels.assets,kind:'box3',state:'LIGHT_BG',width:350,height:148});popup.append(at(frame.root,[0,-8]));
       const arrow=this.picture('zh_CN/gui_summer/controls/helper/tankhelper_arrow.png',[254,-18]);if(arrow)popup.append(arrow);
       const list=at(element('div',null,'m82-selection-guild-options'),[17,6,320,120]);list.tabIndex=0;list.dataset.selectionExtrasFocus='options';
-      for(const row of model.options){const pick=actionButton('',()=>{if(current())this.mutate(()=>this.client.setSelectionGuildSkill(row.nGuildSkillId,row.requestedLevel));},{disabled,className:'m82-selection-guild-option',title:`${nativeText(row.name)} · Cấp ${row.nLevel}`,testId:`selection-guild-skill-${row.nGuildSkillId}`});pick.setAttribute('aria-label',`${nativeText(row.name)} cấp ${row.nLevel}`);pick.dataset.selectionExtrasFocus=`skill-${row.nGuildSkillId}`;if(row.icon)pick.append(assetImage(row.icon));else pick.append(element('span',nativeText(row.name)));list.append(pick);}
+      for(const row of model.options){const pick=actionButton('',()=>{if(current())this.mutate(()=>this.client.setSelectionGuildSkill(row.nGuildSkillId,row.requestedLevel));},{className:'m82-selection-guild-option',testId:`selection-guild-skill-${row.nGuildSkillId}`});if(disabled)pick.setAttribute('aria-disabled','true');this.tip(pick,row);pick.setAttribute('aria-label',`${nativeText(row.name)} cấp ${row.nLevel}`);pick.dataset.selectionExtrasFocus=`skill-${row.nGuildSkillId}`;if(row.icon)pick.append(assetImage(row.icon));else pick.append(element('span',nativeText(row.name)));list.append(pick);}
       if(!model.options.length)list.append(element('p','Chưa có kỹ năng khác. Hãy học kỹ năng trong Guild.'));popup.append(list);content.push(popup);
     }
+    this.tipNode=element('div',null,'m82-selection-guild-tip');this.tipNode.hidden=true;this.tipNode.setAttribute('role','tooltip');content.push(this.tipNode);
     this.root.replaceChildren(...content);
     if(focus)this.root.querySelector(`[data-selection-extras-focus="${focus}"]`)?.focus({preventScroll:true});
+  }
+  /** Native-style Guild skill info: name, level, type and description on hover/focus. */
+  tip(node,row,fallback=''){
+    const show=()=>{
+      const tip=this.tipNode;if(!tip||(!row&&!fallback))return;
+      const name=element('strong',row?nativeText(row.name):'Kỹ năng Guild');
+      const meta=element('em',row?`Cấp ${row.nLevel}${row.nLevelMax?`/${row.nLevelMax}`:''} · ${row.skillType===2?'Chủ động':'Bị động'}`:'Chưa mở');
+      tip.replaceChildren(name,meta,element('span',row?nativeText(row.description||''):fallback));tip.hidden=false;
+      const base=this.root.getBoundingClientRect(),r=node.getBoundingClientRect(),h=tip.offsetHeight||90,w=tip.offsetWidth||236;
+      const left=Math.max(4,Math.min(base.width-w-4,r.left-base.left+r.width/2-w/2));
+      const above=r.top-base.top-h-8;tip.style.left=`${left}px`;tip.style.top=`${above>=4?above:r.bottom-base.top+8}px`;
+    };
+    const hide=()=>{if(this.tipNode)this.tipNode.hidden=true;};
+    for(const [type,fn] of [['pointerenter',show],['focus',show],['pointerleave',hide],['blur',hide]])node.addEventListener(type,fn);
   }
   dispose(){this.disposed=true;this.epoch++;this.abort.abort();this.root.remove();}
 }

@@ -38,7 +38,7 @@ SESSION_CHECK_INTERVAL = 5.0
 CLIENT_IDLE_TIMEOUT = 90.0
 # Only operations exposed by the current outside-match UI. No chat messages,
 # arbitrary native commands, alternate TCP targets or authentication shortcuts.
-M8_MESSAGES = frozenset((60000, 60002, 60004, 60006, 60008, 350, 556, 557, 68, 69, 75, 76, 77, 78, 79, 88, 153, 155, 156, 157, 158, 159, 166, 200, 203, 204, 207, 210, 250, 304, 558,
+M8_MESSAGES = frozenset((60000, 60002, 60004, 60006, 60008, 60012, 350, 556, 557, 68, 69, 75, 76, 77, 78, 79, 88, 153, 155, 156, 157, 158, 159, 166, 200, 203, 204, 207, 210, 250, 304, 558,
                         320, 321, 322, 423, 424, 425, 426, 427, 430,
                         651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 662, 663, 665, 666, 668, 669, 670, 672, 778))
 ALLOWED_MESSAGES = {
@@ -395,6 +395,11 @@ class NativeGuard:
         if mid == 60008:
             # M45 shop-v1 has its own strict schema; C250 stays unchanged.
             from normal_shop import decode_request
+            decode_request(body)
+            return
+        if mid == 60012:
+            # M52 events-v1: strict JSON schema (list/act, known event ids).
+            from events_v1 import decode_request
             decode_request(body)
             return
         pos = 0

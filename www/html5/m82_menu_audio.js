@@ -21,7 +21,10 @@ export class M82MenuAudio {
       if(!response.ok)throw new Error('Audio catalog unavailable');this.catalog=await response.json();if(!this.disposed)this.sync();
     }).catch(()=>{this.stats.missing++;});
   }
-  setScreen(screen,phase='lobby'){this.screen=screen;this.phase=phase;this.sync();}
+  // GameRoomView plays gameroom.mp3 once on entering a room. The file is a
+  // 0.2s swish, not a BGM: looping it produced a continuous rustling noise.
+  setScreen(screen,phase='lobby'){const entering=screen==='room'&&this.screen!=='room';
+    this.screen=screen;this.phase=phase;this.sync();if(entering)this.effect('room');}
   setActive(active){if(this.active===!!active)return;this.active=!!active;this.sync();if(!this.active)this.stopEffects();}
   setPreferences(changes) {
     this.preferences=menuAudioPreferences({...this.preferences,...changes});

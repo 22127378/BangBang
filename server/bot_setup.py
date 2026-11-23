@@ -40,6 +40,12 @@ PK_MAPS=(1,4,17,18,19,20,21,34,35,36)
 BOT_MAPS=(70,30,40,7,9,10,12,14,37,50,169,170,*PK_MAPS)
 MODE_MAPS={'escort_bomb':70,'death_city':40,'death_mine':30,'base_polar':169,'base_ruins':14,'base_mineral':12,'base_town':50,'pk_mine':36,'pk_fortress':35,'pk_polar':34,'pk_lightning':21,'pk_fastfood':17,'pk_snow':4,'pk_maya':1,'occupy_quicksand':170,'occupy_military':37,'occupy_freight':10,'occupy_tomb':9,'occupy_desert':7,'pk_robo':19,'pk_cow':20,'pk_totem':18,'test':101}
 MODE_MAPS['test_desert']=7
+# 'random' is a saved preference, never a room: every new room rolls one
+# concrete mode from this pool (maps whose bots were verified end to end).
+RANDOM_MODE='random'
+RANDOM_POOL=('pk_robo','pk_maya','pk_snow','pk_fastfood','pk_totem','pk_cow','pk_lightning','pk_polar',
+             'pk_fortress','pk_mine','base_mineral','base_ruins','base_town','base_polar','occupy_desert',
+             'occupy_tomb','occupy_freight','occupy_military','occupy_quicksand','escort_bomb','death_mine','death_city')
 # Clear ground on the east side of map 7, 180px minimum spacing. These are
 # room-specific positions; the original map spawns/terrain stay unchanged.
 TEST_DESERT_TANKS=(10000019,10000003,10000034,10000042,10000044)
@@ -51,7 +57,7 @@ def default_setup():
 
 
 def validate_setup(value):
-    if not isinstance(value,dict) or value.get('mode') not in MODE_MAPS:
+    if not isinstance(value,dict) or (value.get('mode') not in MODE_MAPS and value.get('mode')!=RANDOM_MODE):
         raise ValueError('Chọn Chiếm cờ Việt Dã/Cổ Mộ/Trung Tâm Vận Chuyển/Quân Khu Tử Thần/Vùng Cát Lún, PK Băng Thiên Tuyết Địa, PK Maya, PK Robo, PK Dắt bò, PK Vật Tổ hoặc phòng thử tank.')
     out = {'mode':value['mode']}
     for key,minimum,maximum in (('allies',0,4),('enemies',0,5)):
@@ -155,6 +161,8 @@ def room_bots(state):
 def configure_room(state, db, *, setup=None, rng=None):
     """Apply web choices only when creating a room, never to an active match."""
     setup=load_setup(db) if setup is None else validate_setup(setup)
+    if setup['mode']==RANDOM_MODE:
+        setup=dict(setup,mode=(rng or random.SystemRandom()).choice(RANDOM_POOL))
     room=state['room']
     room['quanvu_execute_hint']=setup['quanvu_execute_hint']
     room.update({key:setup[key] for key in ('bot_guild','bot_crystals','bot_military')})

@@ -40,6 +40,9 @@ import pve_stamina
 import offline_mail
 import economy_actions
 import normal_shop
+import events_v1
+
+CHECKPOINT_INTERVAL = 1.0  # seconds between live battle snapshots (see checkpoint()).
 import world_boss_store
 import uuid
 import military_rank
@@ -591,14 +594,28 @@ def _client_handler(conn: socket.socket, addr) -> None:
     boss_notice_at = 0
     boss_notice_state = None
 
-    def checkpoint():
-        nonlocal saved_arena
+    last_battle_checkpoint = 0.0
+
+    def checkpoint(force=False):
+        nonlocal saved_arena, last_battle_checkpoint
         if not owns_world:
             return
         if session_state.get('multiplayer_room_id'):
             return  # The shared worker alone owns this profile's live world checkpoint.
         battle = session_state['battle']
         arena = battle.get('actions') if battle else None
+        # Performance: a live, unfinished battle used to be serialised and
+        # committed after EVERY tick and EVERY input (~180 KB each, tens of
+        # times per second), which stalled the GATE loop on disk I/O. Keep at
+        # most one live snapshot per CHECKPOINT_INTERVAL. Results, rewards and
+        # any non-battle state are still written immediately (finished arena,
+        # no arena, or force=True), so a crash can lose <=1s of live combat only.
+        now = time.monotonic()
+        live = bool(arena and arena.pk and not arena.pk.get('finished'))
+        if live and not force and now - last_battle_checkpoint < CHECKPOINT_INTERVAL:
+            return
+        if live:
+            last_battle_checkpoint = now
         if arena:
             saved_arena = dump_arena(arena)
         if battle is None:
@@ -1085,6 +1102,16 @@ def _client_handler(conn: socket.socket, addr) -> None:
                         conn.sendall(b''.join(_frame(m, b) for m, b in packets))
                         continue  # Shop receipt and economy committed together; no checkpoint rewrite.
 
+                    elif mid == events_v1.REQUEST:
+                        if not boss_ready:
+                            continue  # Authenticated owner after final login sync only.
+                        packets, error = events_v1.apply(session_state, payload, world_db)
+                        if not error and any(message == 1150 for message, _ in packets):
+                            tanks_db = {key: record for record in storage.garage()
+                                        for key in (record['uuid'], str(record['tank_id']))}
+                        conn.sendall(b''.join(_frame(m, b) for m, b in packets))
+                        continue  # Event state, rewards and wallet committed together.
+
                     elif mid == offline_mail.REQUEST:
                         try:
                             offline_mail.decode_request(payload)
@@ -1330,7 +1357,7 @@ def _client_handler(conn: socket.socket, addr) -> None:
                                 room_id=1001,
                                 num=1,
                                 max_num=10,
-                                map_id=MODE_MAPS[load_setup(world_db)['mode']],
+                                map_id=MODE_MAPS.get(load_setup(world_db)['mode'],19),
                                 mode=1 if load_setup(world_db)['mode']=='test' else 3,
                                 state=0,
                                 room_type=1,
@@ -1708,6 +1735,16 @@ def _client_handler(conn: socket.socket, addr) -> None:
                                 session_state['military_build']=military_rank.build(session_state['military_star'])
                                 # Guild/booster builds were frozen before S1705.
                             actions = restore_arena(session_state,saved_arena) if saved_arena else BattleArena(session_state,bot_attacks=True)
+                            if not hasattr(actions,'navigation'):
+                                # Performance: build/copy the bot walk graph during the
+                                # loading screen. Lazily flooding it on the first bot
+                                # route stalled one live tick by ~100-200 ms.
+                                try:
+                                    from multiplayer_battle import prepare_navigation, install_navigation
+                                    install_navigation(actions,prepare_navigation(
+                                        {'map_id':actions.geometry.id},{0:session_state},room_bots(session_state)))
+                                except Exception:
+                                    log.exception('navigation prewarm failed; bots fall back to lazy routing')
                             if actions.geometry.id==world_boss_store.MAP:
                                 from world_boss_mode import synchronize
                                 synchronize(actions,world_boss_store.current(world_db),world_boss_store.now_ms())

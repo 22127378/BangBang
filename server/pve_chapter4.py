@@ -51,6 +51,7 @@ def stop(arena,points):
 
 def scripts(arena,script,now):
     packets=[]
+    from pve_events import run as presentation;packets+=presentation(arena,script,now)
     for kind,arg,_,_ in script:
         if kind==4:packets+=remove_objects(arena,(arg,))
         elif kind==5:stop(arena,(arg,))
@@ -109,7 +110,8 @@ def death(arena,actor,now):
 def finish(arena,now):
     from pve_rules import finish as win
     arena.pk['pve']['spawns']=[];arena.pk['pve']['active_rules']=[]
-    return win(arena,now,True)
+    from pve_events import ending_lines
+    return ending_lines(arena,now)+win(arena,now,True)
 
 
 def mechanisms(arena,now):

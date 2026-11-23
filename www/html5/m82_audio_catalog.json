@@ -49,12 +49,12 @@
     "shop": "shop",
     "garage": "garage",
     "selecting": "selecting",
-    "room": "room",
+    "room": "hall",
     "lobby": "hall",
     "login": ""
   },
   "phases": {
-    "room": "room",
+    "room": "hall",
     "lobby": "hall"
   },
   "sourceReferences": [
